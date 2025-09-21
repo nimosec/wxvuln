@@ -22265,5 +22265,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898240&idx=1&sn=4d3f329915a64b734ae89bb68c133415": "多家科技公司数据泄露被查处",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498218&idx=1&sn=77b833f75365452424ef9f2b8b5a95a2": "某系统RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488775&idx=1&sn=143a7aeb6fa46a94db33b82fa7e615af": "CVE-2024-12798 logback RCE 漏洞分析",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487501&idx=1&sn=0a03f46639e2a0e3824309b165ea03f7": "一文读懂密钥的分层管理机制：根密钥、密钥加密密钥、工作密钥"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487501&idx=1&sn=0a03f46639e2a0e3824309b165ea03f7": "一文读懂密钥的分层管理机制：根密钥、密钥加密密钥、工作密钥",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487920&idx=1&sn=2a4be86c7d41f27da885b3f721a9a42f": "用于有效载荷加密、混淆和转换为字节数组（支持 14 种输出格式）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487736&idx=1&sn=feb85cd257147461e732694fecd64b3c": "信息收集-CheckList",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495254&idx=1&sn=5b88b096d4cc407039cbc068b0a1ba3a": "GUI自动化渗透测试报告生成工具，用于快速生成专业的渗透测试报告。",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932701&idx=1&sn=a054f1748079b0277722d9ff4b9318c8": "蚂蚁消金CIO刘义：以AI对抗AI，守护金融安全",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=1&sn=818c46395bce6642d2abdff6bd2c71ac": "CVE-2025-54236｜Adobe Commerce存在安全绕过漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=2&sn=7fda1f7d0eaf073014bd1b814048caef": "CVE-2023-24205｜Clash for Windows远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NDg2NTg4MA==&mid=2651586690&idx=1&sn=2a56d02c00f4326e207c871d78716d18": "关于应用安全评估的知识"
 }
