@@ -22272,5 +22272,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932701&idx=1&sn=a054f1748079b0277722d9ff4b9318c8": "蚂蚁消金CIO刘义：以AI对抗AI，守护金融安全",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=1&sn=818c46395bce6642d2abdff6bd2c71ac": "CVE-2025-54236｜Adobe Commerce存在安全绕过漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=2&sn=7fda1f7d0eaf073014bd1b814048caef": "CVE-2023-24205｜Clash for Windows远程代码执行漏洞（POC）",
-    "https://mp.weixin.qq.com/s?__biz=MzA5NDg2NTg4MA==&mid=2651586690&idx=1&sn=2a56d02c00f4326e207c871d78716d18": "关于应用安全评估的知识"
+    "https://mp.weixin.qq.com/s?__biz=MzA5NDg2NTg4MA==&mid=2651586690&idx=1&sn=2a56d02c00f4326e207c871d78716d18": "关于应用安全评估的知识",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500666&idx=2&sn=aca24dfc7ae063bdc0bf486fa119e0ca": ".NET 内网实战攻防电子报刊",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500666&idx=3&sn=70e0d5ff65c266d138bd7f11e090e347": ".NET 本地提权，通过系统进程令牌模拟实现权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519687&idx=1&sn=7edaecdb64473e11d079ac96686b4b92": "0day | 某在线拍卖系统代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493439&idx=1&sn=7c522f682b0db142ca9a8efe6f4a60f4": "银狐黑产某服务器样本文件分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487933&idx=1&sn=30df1a1e98189feca62d0c22bf700a9c": "Electron JS 浏览器自动查找 XSS 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485079&idx=1&sn=04386e02ee8aeb3cfec5a378263c259f": "日感染1500台VPS！我扒出了一个靠“吃”服务器漏洞为生的黑产代理网络",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901388&idx=1&sn=033def6b0f8e5a4094e843ff55be97bd": "深度复盘：伊朗APT组织UNC1549如何用一份假Offer和自研后门，攻陷11家欧美电信巨头",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494507&idx=1&sn=668a0e0b9c52f8d4caef38d7564af2cb": "漏洞预警 | Claude Code远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494507&idx=2&sn=8dad72f082d2683d4bfc7e5b02c44fa5": "漏洞预警 | 安科瑞环保用电监管云平台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494507&idx=3&sn=387e5bcad8fd03a8b1ae0c6efa8493cf": "漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488815&idx=1&sn=ac169b509687e82754f6d73cce6ee332": "漏洞挖掘之JS前端加密浅谈（二）",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDYzNTYxNQ==&mid=2247503978&idx=1&sn=154d8dae48ac8bb9b14fb6e8f7abc064": "2025版数据安全风险评估报告(模板)，附word下载地址",
+    "https://mp.weixin.qq.com/s?__biz=MzE5ODQ4Nzg0Mg==&mid=2247483989&idx=1&sn=ea8f90a68b9dd8fa2deab7d2637284e6": "CISSP做题方法总结",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523965&idx=1&sn=80a7337d13392e80076711fe591f9651": "TOL-API 基于Token验证文件传输API安全工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494966&idx=1&sn=a8e3b16643b66a341c6868235a16420a": "JS泄露突破后台的攻防实录：Swagger与Nacos漏洞与前后端分离突破",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489231&idx=1&sn=c1ddfb7a9911658037f98ac6d4717479": "Apache Druid存在服务端请求伪造漏洞SSRFCVE-2025-27888 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486390&idx=1&sn=17e36ec3cad70cda964c2ba23aa62fbb": "JS加密逆向神器，助力SRC漏洞挖掘"
 }
