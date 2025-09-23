@@ -22517,5 +22517,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486469&idx=1&sn=b10835b1596198efa9248359e915c6d2": "三种特殊域名绕过XSS字符限制技巧",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519801&idx=1&sn=59c78870090cfdb2a7b73699a36511d3": "漏洞挖掘-业务响应状态码攻击面新思路",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247490114&idx=1&sn=6407699156ddf0afe9e0d7f57e17c401": "Windows | 基于Rust语言的KTLVdoor远控木马分析",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532860&idx=1&sn=a9a97187765c86c143eaf0fc1608a3aa": "CVE-2025-10585：Chrome V8 类型混淆零日漏洞分析"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532860&idx=1&sn=a9a97187765c86c143eaf0fc1608a3aa": "CVE-2025-10585：Chrome V8 类型混淆零日漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489244&idx=1&sn=58c72eb6f0a3b38d32aa56fcaa623d6b": "东胜物流软件WmsZXFeeGridSource.aspx接口存在SQL注⼊漏洞 附POC"
 }
