@@ -22977,5 +22977,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDU2MDk4NQ==&mid=2247484183&idx=1&sn=8c49d9fbf2eaab628f2b3f19d33c046c": "prompt注入攻击",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637458&idx=2&sn=bc23037d0231e23683d80ac74adb7b6d": "解读 | 从某电子商务公司旅客购票信息泄露案看企业网络和数据安全保护义务",
     "https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485633&idx=1&sn=8a17503ee380163fdf321dd75f8fc609": "java 代码审计 - SpEL 表达式注入",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485521&idx=1&sn=5bd12e2ee5a025e14e00b0013bf7363a": "用友U8cloud-NCCloudGatewayServlet 反射漏洞分析"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485521&idx=1&sn=5bd12e2ee5a025e14e00b0013bf7363a": "用友U8cloud-NCCloudGatewayServlet 反射漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489286&idx=1&sn=810c0818ea26eb356c0f6e1730378cca": "用友U8 Cloud NCCloudGatewayServlet接口存在任意文件上传漏洞 附POC"
 }
