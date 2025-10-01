@@ -23352,5 +23352,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486515&idx=1&sn=d8ba7a406e4b9a7606fa70c48bb3993f": "SSRF漏洞常见功能点总结",
     "https://mp.weixin.qq.com/s?__biz=MzI2NDI0MjA1MQ==&mid=2247484980&idx=1&sn=06ad99c860a08f1702bd22325342f13e": "BitLocker-微软全盘加密",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518755&idx=1&sn=13d144b98ba1c7462cfa63ed37241ed1": "红队演习",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493626&idx=1&sn=33897db0705d91d50f91b172f62e1956": "Cloudflare 抗住了创纪录的 22.2 Tbps DDoS 攻击"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493626&idx=1&sn=33897db0705d91d50f91b172f62e1956": "Cloudflare 抗住了创纪录的 22.2 Tbps DDoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495562&idx=1&sn=0cbe6b36ff555061b2828e5b10416893": "360SRC祝白帽师傅们中秋节&国庆节双节快乐",
+    "https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247489905&idx=1&sn=88b3f47d2580c358868b6ba65f9557da": "【安全月报】| 9 月加密货币安全事件造成 1.16 亿美元损失",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349": "思科爆出致命零日漏洞！超200万设备面临远程代码执行风险",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=3&sn=5bd054ccf081aab108e026e6632e7a8f": "干货分享 | 记一次挖矿木马+隐藏后门应急分析（建议收藏）",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492893&idx=1&sn=e2894e5e7cd5bf7ede2521908beff710": "记一次小程序从越权到任意用户登录漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182861&idx=1&sn=84cc86a44ee610080fb7bc7811cbb0de": "美国NSA 上报两个VMware NSX 高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4Mzg1ODMwMg==&mid=2650726128&idx=1&sn=8afd1adb487d00f90c965327eab8fdb8": "神州希望协助海口市市场监督管理局开展网络安全意识培训",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514961&idx=1&sn=1f46f659ed53f28f73f598ec5db982d6": "智能安全推理引擎实测：SQL注入识别准确率突破90.3%！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497393&idx=1&sn=fbb6d09a3d08478441e237a99df97058": "某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4Njc3NjczNg==&mid=2247486306&idx=1&sn=d179578fd2484bcd2284f18cb73fb996": "USRC祝各位中秋国庆双节快乐！",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247500514&idx=1&sn=a3eade970b84f880e5ab5602751f886e": "从零到一 - 信息收集工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514193&idx=2&sn=06555206b12cc1373bd17720e08e6aca": "Google Gemini现漏洞“三重奏”：AI秒变攻击工具"
 }
