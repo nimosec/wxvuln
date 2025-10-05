@@ -23514,5 +23514,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582334&idx=1&sn=efcbc8d507892b0169ff27914f77bffd": "节中预警：无需升级即可防护，360终端安全智能体率先实现抵御Unity高危漏洞威胁",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485471&idx=1&sn=ef90751842a04a761d37158bb15d6f08": "Linux应急响应：Rootkit“偷天换日”大法",
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552680&idx=1&sn=ef42334ee4b48e2bd850753784b7c2fa": "js逆向学习保姆级教程从0-1(附详细案例，看完包学会！)",
-    "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484032&idx=1&sn=93deb0774046d4e28de6b47ea0aeb3a8": "飞企互联OAxa0FEwork ChangeBGServlet命令执行漏洞(QVD-2025-25776)"
+    "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484032&idx=1&sn=93deb0774046d4e28de6b47ea0aeb3a8": "飞企互联OAxa0FEwork ChangeBGServlet命令执行漏洞(QVD-2025-25776)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498359&idx=1&sn=f0ef18f549fc52d25deee679637f4dfd": "文件上传新思路",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486839&idx=1&sn=b605289a9d5517f86417c8a8493cef56": "某新版AI客服系统前台反序列化RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096536&idx=1&sn=186b784cc0a1d8bd15d776d40e7727bf": "Unity 实时开发平台存在执行任意代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096536&idx=2&sn=ad25e25332d5535165113eb3c660f23c": "Chrome 安全更新修补了允许攻击者执行任意代码的 21 个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072057&idx=3&sn=101da8e4a10ab68d47430cd912c7331c": "【安全圈】云技术巨头 Salesforce 10亿用户记录疑遭泄露！攻击者组织入侵并将公开数据",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDIwMTMxMw==&mid=2247494941&idx=1&sn=57d6bf9af3d78e639618f69d74d20f00": "国内主流情报信息收集分析工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484395&idx=1&sn=764f33315c60389bd70bcb796db04bad": "EDUSRC部分证书实物展示",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328402&idx=1&sn=74d6150ee0ebfda25fc51789e82e8ab7": "Discord数据泄露事件：用户个人信息及证件扫描件遭泄露",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328402&idx=3&sn=e11e53b1b0549329a7e7c8a5174c683f": "XWorm V6.0重现江湖：模块化远控木马携勒索插件与高级规避技术卷土重来",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898279&idx=1&sn=92e82b56e4b5965986708b92c45e670b": "罚款！湖南某医院未履行保护义务，致医疗信息泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532960&idx=1&sn=109b63ed57ccbd6749799074e7b87e23": "朝鲜IT工作者：朝鲜加密洗钱网络内部",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485406&idx=1&sn=2cfb00c0097020d3123da0b4bb4739bf": "edusrc证书站,30分钟四张证,顶着waf RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575161&idx=1&sn=b2c8966f4b88eed5bf6bee94a4929996": "Nessus、AWVS、Appscan、OWASP漏洞扫描工具的区别（介绍、测试对象对比、优劣对比）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca": "CVE-2025-59489:Unity 运行时任意代码执行漏洞深度解析"
 }
