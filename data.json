@@ -23486,5 +23486,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485189&idx=1&sn=fbf84bbbfedd58a91ead26d89930b974": "被积极利用：严重漏洞 CVE-2025-6388（CVSS 9.8）允许绕过 WordPress 插件中的身份验证",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490727&idx=1&sn=b8c90ef5b807ebcbadf41907d23fd339": "WebSocket Turbo Intruder 挖掘 WebSocket 金矿",
     "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627737&idx=1&sn=6b941dbb7f00f56222cd51eaf2574a64": "智能网联汽车数据安全合规体系的建立及应用研究",
-    "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484024&idx=1&sn=afbd62c6667b01586ec0c72bdfbcd689": "TRUfusion Enterprise未授权访问漏洞复现（CVE-2025-27225）"
+    "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484024&idx=1&sn=afbd62c6667b01586ec0c72bdfbcd689": "TRUfusion Enterprise未授权访问漏洞复现（CVE-2025-27225）",
+    "https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492777&idx=1&sn=caf136432abd810285d2b93c354eb33a": "【密码学】伪随机生成器",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247500570&idx=1&sn=9068c78037d7ecf518e06f089c1d9c30": "敏感信息泄漏tips",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484977&idx=2&sn=8493e2eefe3bca946f91d8bbc215e169": "网络共享安全扫描工具 enum4linux 使用教程",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247514199&idx=1&sn=044f7a239c367a00ce73976d4392b916": "网络共享安全扫描工具 enum4linux 使用教程",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488908&idx=1&sn=091b9daf6245a820ee5afedd899f849c": "渗透测试中如何利用40x",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514987&idx=1&sn=a4be616a7ca25c4d0fb582daf14a32e1": "“这API有毒！随便测个SQL注入，竟挖出这么多隐藏风险…”u200b",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118759&idx=1&sn=2356cf05dbadf1aa698d277a06f3a543": "专家解读 | 从移动应用数据泄露案看数据和网络安全义务的落实",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247494152&idx=1&sn=c1d0268f0425ef07283a4465d0cb2e4f": "网络安全行业，大数据安全应知应会的100条术语",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487809&idx=1&sn=da971adad05560f6a009770f2bcac3a9": "内网渗透(二)：认证协议",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485426&idx=1&sn=7aed785acca75526eac756aaf1c097db": "构筑“隐形防线”：用虚拟蜜罐让内网攻击者无处遁形",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484158&idx=1&sn=e91aa54b7706b094eced988219ee0982": "【已复现】CVE-2025-27225"
 }
