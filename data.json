@@ -23507,5 +23507,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485542&idx=1&sn=097c586d3ba84a97c93658e9700bc653": "从客户端 XSS-to-RCE 漏洞看electron安全",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486208&idx=1&sn=ca1f76a1c784a4c51cabf43025df9c9a": "CVE-2025-20333｜Cisco ASA和Cisco FTD缓冲区溢出漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486208&idx=2&sn=f8211d881493144a6ef1e14a6ab7007b": "CVE-2025-9242｜WatchGuard Firebox防火墙远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497417&idx=1&sn=3b2eddf88b532b3d6665cc8e829df67c": "SQL注入姿势分享&实战案例分享"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497417&idx=1&sn=3b2eddf88b532b3d6665cc8e829df67c": "SQL注入姿势分享&实战案例分享",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd": "某新版AI客服系统前台反序列化RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486476&idx=1&sn=234ea219bc5a434f42d41d3121ba11e7": "一个抗提示词注入的RAG增强聊天机器人设计与实践",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627755&idx=3&sn=0fc5b7afc5507aebe0936ea169c55294": "智能网联汽车OTA升级安全设计",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582334&idx=1&sn=efcbc8d507892b0169ff27914f77bffd": "节中预警：无需升级即可防护，360终端安全智能体率先实现抵御Unity高危漏洞威胁",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485471&idx=1&sn=ef90751842a04a761d37158bb15d6f08": "Linux应急响应：Rootkit“偷天换日”大法",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552680&idx=1&sn=ef42334ee4b48e2bd850753784b7c2fa": "js逆向学习保姆级教程从0-1(附详细案例，看完包学会！)",
+    "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484032&idx=1&sn=93deb0774046d4e28de6b47ea0aeb3a8": "飞企互联OAxa0FEwork ChangeBGServlet命令执行漏洞(QVD-2025-25776)"
 }
