@@ -23531,5 +23531,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca": "CVE-2025-59489:Unity 运行时任意代码执行漏洞深度解析",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493630&idx=1&sn=3ae7689ff218a61f8eef24988edec302": "Microsoft Entra ID 漏洞可劫持任何公司的租户",
     "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484618&idx=1&sn=e265df69b00f3bcf1d578ca221410eca": "Apple 又中刀：DNG 图像处理越界写入漏洞（CVE-2025-43300）全揭秘",
-    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655292620&idx=1&sn=2f608590f8ad087a050c4d0de1dfdb01": "2025年第二季度漏洞与利用情况"
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655292620&idx=1&sn=2f608590f8ad087a050c4d0de1dfdb01": "2025年第二季度漏洞与利用情况",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524114&idx=1&sn=7021c4323c6c497dde107dc37fa4aa6a": "Unity实时开发平台漏洞可导致攻击者执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493631&idx=1&sn=3bb7427d2f6d1a172482aabfb5111396": "NPM 包被发现使用二维码获取窃取 cookie 的恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501916&idx=1&sn=5f38ea24992f5d9e432cfb46847d7a37": "特斯拉远程信息处理控制单元漏洞可以root身份执行代码攻击"
 }
