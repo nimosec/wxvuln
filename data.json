@@ -23581,5 +23581,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486157&idx=1&sn=3b9e27aab3f65274848d8541e9614b60": "聊聊SOC多源日志接入与统一管理",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDM5NTMzOQ==&mid=2247486882&idx=1&sn=125dee116d2dff630bce521074078df9": "阅读与复现-域内手法5-PTH-域渗透攻防指南",
     "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485547&idx=1&sn=6d7e8ab730c0922dc703c24097e5c93c": "【工具】当代码审计工具遇上MCP，小白也能成为漏洞收割机",
-    "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484046&idx=1&sn=06137b7510798bb028d02add68bd364f": "TRUfusion Enterprise身份验证绕过漏洞复现（CVE-2025-27223）"
+    "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484046&idx=1&sn=06137b7510798bb028d02add68bd364f": "TRUfusion Enterprise身份验证绕过漏洞复现（CVE-2025-27223）",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493605&idx=1&sn=9a57375cda43f202346dbf5c39e705ad": "伪装成简历某红队窃密样本分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484658&idx=1&sn=e8e266971934b8cfdc2dd2b16b02f388": "13 年前的 Redis RCE 严重漏洞让攻击者获得对主机系统的完全访问权限",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487044&idx=1&sn=84479e587d7bce9b60078af1510edc03": "近一周涉我威胁情报一览",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=1&sn=b578ea801236c9155f2314ee209ac1cd": "Redis 服务器存在允许远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=2&sn=c5790deb777bab4c3a9a3ffbbd9baccf": "QNAP NetBak Replicator 存在允许恶意代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247494187&idx=4&sn=3e48f42dee5fced8a8e8c7f369e7ada3": "网络安全行业，为什么安全运维类人才很难找工作了",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485119&idx=1&sn=6ea7f8bf9238dc4a39f1f824fbad9ad5": "深度剖析：黑客如何将DNS TXT记录，打造成一个“恶意软件投递工厂”？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485444&idx=1&sn=654181ef75c762693e3823a7349cbb7c": "分享一些以前挖掘的src案列",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328445&idx=1&sn=1a05937ecbcbc26366a76948538abb81": "将Gemini CLI集成到Kali Linux终端实现渗透测试任务自动化",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328445&idx=3&sn=0328117b75806f3d9aadd7f29f91dc45": "可获取Root权限的Sudo漏洞PoC利用代码已公开",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=1&sn=96fbadea99bbb779069babdb769a5de7": "Windows内核CVE-2019-1215分析与复现",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=2&sn=b5e72cea3d9dd48d7e47eaacc15f057f": "25秋季班招生！节后直播：系统0day安全-IOT设备漏洞挖掘（第6期）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487289&idx=1&sn=779d6d9a7beb15097450b07e3d15f377": "一次简单的五千赏金漏洞挖掘记录",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484753&idx=1&sn=69c1a630a790146c3c0ab634d71b90e8": "高危漏洞预警: Oracle E-Business套件已发现在野利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072104&idx=2&sn=324b2de1f3fdfb6630ceca4f2aa2a4e3": "【安全圈】全球数据泄露态势月度报告",
+    "https://mp.weixin.qq.com/s?__biz=MzYyMjc1NTIwOQ==&mid=2247483712&idx=1&sn=66e14ce7944e07b406b406a1393a9330": "使用vmware在个人电脑上安装LearnCTF免费开源靶场（CTF平台/CTF靶场/CTF入门/网络安全/渗透测试）"
 }
