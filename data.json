@@ -23645,5 +23645,15 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=4&sn=d920ba9bfac75a4594a47eff48f227b5": "新型Yurei勒索软件现世：基于Go语言的高级反取证技术实现不可逆双重勒索",
     "https://mp.weixin.qq.com/s?__biz=MzU0NDkyNTQ2OA==&mid=2247486245&idx=1&sn=199e6be71bc9d6698575bdcdfc698bcb": "2025金秋政策解码：企业网络安全合规的三重防线",
     "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247560479&idx=2&sn=0ce813499afbe8a1862ae19427109aba": "汽车软件开发的质量和安全管理流程",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498371&idx=1&sn=88579785fbd61a0b516231fee58a0686": "常见各组件以及系统默认弱口令"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498371&idx=1&sn=88579785fbd61a0b516231fee58a0686": "常见各组件以及系统默认弱口令",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712534&idx=1&sn=5fa704d3f2ebdb50691f0a08d854803f": "Linux常见提权Nday汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485556&idx=1&sn=f6e6aa6bf503fd61649aae2707aaf38f": "价值1万美元的奇袭！低危漏洞组合拳如何泄露近40亿YouTube邮箱？",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485176&idx=1&sn=ff6f1974add7428891b8dadef3156a60": "【漏洞预警】Redis存在约 13 年的 (UAF) 内存损坏漏洞(CVE-2025-49844)",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691074&idx=1&sn=56c01f631848e0e79b4638c5c9133a2e": "0064. Cookie炸弹：我的第一个 1 万美元漏洞赏金",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493625&idx=1&sn=3a42088698461230d578a2a055af4839": "银狐最新过沙箱高级免杀木马分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484664&idx=1&sn=a098139c7e2a394da7cb2fe0878de0d0": "谷歌的新人工智能不仅能发现漏洞，还会重写代码来修补漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485247&idx=1&sn=bce04c32a7d5b2b87d6ad72e735df0ac": "严重漏洞 CVE-2025-49844 (CVSS 10.0) 允许在 Redis 中执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDQwNDI3MQ==&mid=2247484096&idx=1&sn=e1ab07a1a5131c9ffaf64c700e63fd41": "记一次从Webshell到域控：一次完整的内网渗透之旅",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDQwNDI3MQ==&mid=2247484093&idx=1&sn=72849eb1ee77b2b49c557e54c29757c6": "记一次从Webshell到域控：一次完整的内网渗透之旅",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDQwNDI3MQ==&mid=2247484090&idx=1&sn=a1cc3e0071ca70afa61401c8729933e2": "记一次从Webshell到域控：一次完整的内网渗透之旅"
 }
