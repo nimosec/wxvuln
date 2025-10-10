@@ -23860,5 +23860,20 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548884&idx=2&sn=4a7bfab6b526ace72042a7282f96154e": "RediShell：Redis 中存在严重远程代码执行漏洞 (CVE-2025-49844)，CVSS 评分为 10",
     "https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898290&idx=1&sn=3ed186701f20ade237374a1ebd0830db": "数据安全管理不到位，这家银行又被罚了！",
     "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184763&idx=1&sn=066a4d77e65a598662d552297d16350c": "如何确定，放行的那个IP不是APT攻击？",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MjgxNTQ1MA==&mid=2247488523&idx=1&sn=6aaa97c4a50ea84d5bd09b17e726eb5f": "新能源智能汽车车载网络通信安全架构详解"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MjgxNTQ1MA==&mid=2247488523&idx=1&sn=6aaa97c4a50ea84d5bd09b17e726eb5f": "新能源智能汽车车载网络通信安全架构详解",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=1&sn=2d825f2627cf7c1caae7d2ecfcfddd73": "【已复现】Linux Kernel TLS 子系统越界访问漏洞(CVE-2025-39946)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=2&sn=8940ff93573fc86f53ba6a3d28efd6b2": "【已复现】Framelink Figma MCP Server 远程代码执行漏洞(CVE-2025-53967)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1Nzk5NDE4OA==&mid=2247483757&idx=1&sn=8a21961ca9baebf1cbbaeac4d452809f": "攻防演练中红队钓鱼攻击思路与技术案例研究",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501427&idx=1&sn=9101b71e135200f4328d9a43dbd5df7f": "【CVE-2025-49844】Redis远程代码执行漏洞 (含POC)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjcxOTk4Mg==&mid=2247485895&idx=1&sn=512022bd7490a12d41270d63cbab7e48": "安全运营知识",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483944&idx=1&sn=927b9bcfa8182fc2362f1fad8902521e": "基于 ExtJS 框架下 的XSS 漏洞分析挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488268&idx=1&sn=88ff7b29bc02a8917c0e5c1535d8ba3b": "攻防演练中红队钓鱼攻击思路与技术案例研究",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584830&idx=1&sn=a5e0fdf3c48cb82be56cef1cd198d5df": "Trinity of Chaos黑客团伙利用Salesforce漏洞攻击39家企业 暗网上线数据泄露站",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661303249&idx=1&sn=ad53766fd94998d95dce22765e6a93a2": "山石安服｜智能网联汽车V2X安全测试服务方案",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552704&idx=1&sn=37b1e9d098918692e8ffd1d6d7d2a4cd": "记一次从信息收集到拿下高危",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247492069&idx=1&sn=77494de37789988559ba778cf26ceaa4": "IT、安全团队总扯皮？用SBOM管技术债，打破部门墙，存量资产风险降一半！",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485567&idx=1&sn=6e91ca3bf7573765748943dda7c10858": "企业级WAF绕过技术深度研究",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484655&idx=1&sn=7d20503246d5da3d2811897a1aaa5063": "【红队思路】红队场景下lnk钓鱼绕过Web 标记 (MoTW)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504204&idx=1&sn=df8d433af7d3024bf41ef0f17368b321": "企业数据安全的黑洞：AI聊天工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492922&idx=1&sn=585c7129cc0396fb05b86021016a2533": "Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41243)"
 }
