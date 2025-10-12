@@ -24073,5 +24073,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489010&idx=1&sn=ea4307a2aa1b8fe57146f68a2764c074": "代码审计初学者入门与心得",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485361&idx=1&sn=41e52a1b81fbf2e9504e968d1b091736": "【工具】当代码审计工具遇上MCP，小白也能成为漏洞收割机",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498403&idx=1&sn=52532994f266c11d89a95ca93d996f95": "实战 | 记一次SQL到接口的SSRF",
-    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552724&idx=1&sn=988e9b1ec95ff6137d227cb9a81dea7e": "渗透测试之从绕过密码强制修改到超管"
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552724&idx=1&sn=988e9b1ec95ff6137d227cb9a81dea7e": "渗透测试之从绕过密码强制修改到超管",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492951&idx=1&sn=982d2c0c0a0d19a5957f807fff868e0e": "JoplinServer 权限提升漏洞(CVE-2025-27134)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzMyOTc5OQ==&mid=2247484488&idx=1&sn=779af2a3a768e44e4bb09d2c3fc94e66": "当隧道工具变成攻击武器：GSocket 滥用对企业安全的深层冲击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk3NDE2Mw==&mid=2247484036&idx=1&sn=62921cabb250757c28410f2526a2ced9": "src漏洞挖掘 XSS&CSRF组合拳",
+    "https://mp.weixin.qq.com/s?__biz=Mzk4ODg5MTY3Mw==&mid=2247483871&idx=1&sn=0ec3c921baccbeaf00b77c6e04518bc8": "[JS逆向]⼀套⾏云流⽔的组合拳进⼊后台",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486577&idx=1&sn=49accfe66f32b2e67857907fb238fd30": "日志安全分析系统 - Security_Analysis_Engine",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488995&idx=1&sn=67c92254c0f335c8a1ae246f6a64e876": "实战记录-API泄漏+cookie篡改进后台+信息泄露和垂直越权",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493688&idx=1&sn=ca0cbb71a05cc7b61fa71d8e1f78490a": "伪装成银狐专杀工具攻击样本分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486123&idx=1&sn=d777c239098ebcb241fa5067631d582d": "CTF Web专项：SQL注入从原理到Flag提取全流程指南",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533058&idx=2&sn=5836dd1779d6af2ebc239d49fa0436a9": "DOM XSS：绕过服务器端 Cookie 覆盖、Chrome innerHTML 漏洞和 JSON 注入",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328636&idx=1&sn=a400a4abcba223174bce79c4dc920281": "2026年AI驱动的SOC技术栈：顶级平台的核心差异",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328636&idx=2&sn=33423f636dc69a812c5ea8ce46880fb6": "利用GPT-4生成勒索软件代码的LLM驱动型恶意软件MalTerminal现世",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485529&idx=1&sn=ce0d54360ca61ee53bccdc3f93308955": "Cookie越权不会只改id和jwt吧(老edu系统新鲜0day挖掘过程)",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492564&idx=1&sn=21131198dcdbee217d66916fc94aeaaa": "IPsec VPN 渗透测试完全指南",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDMwMjEwMg==&mid=2451852368&idx=1&sn=e59a548982b5eafecc446a46b8612e48": "开源安全管理平台wazuh-与网络入侵检测系统集成增强威胁检测能力",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500796&idx=1&sn=2237b751bf571f57c7188dccd6bf5625": "80 个反序列化漏洞全景系列 (6) | 深入剖析特定代码场景下触发漏洞的可能性"
 }
