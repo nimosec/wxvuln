@@ -24065,5 +24065,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=2&sn=18dee8bee8979b94af62d94abc0f44ce": "VMware Workstation虚拟机逃逸漏洞PoC利用代码公开",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484692&idx=1&sn=100506758858bfe3850dde247dd2f8fa": "软件供应链企业为什么必须买5台Web应用防火墙",
     "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485147&idx=1&sn=f1121e2e5b4d06a2692e8965a45ec539": "紧急预警！这个潜伏13年的Redis漏洞，能让黑客远程接管你的服务器！",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524265&idx=1&sn=6dcd82aa1350163d514e9ad9603e4541": "提示词注入实战—通过在线靶场看提示词注入手法"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524265&idx=1&sn=6dcd82aa1350163d514e9ad9603e4541": "提示词注入实战—通过在线靶场看提示词注入手法",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487840&idx=1&sn=8cbacd29d3452184446d8dfd513c0bca": "内网渗透(三)：域靶场搭建",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501440&idx=1&sn=f6d30c0812e09da66d9e0d925e4289dd": "用友U8 Cloud 全版本远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503317&idx=1&sn=fb723ac254226e2b2fa038018c8982f8": "篇 71：澳大利亚国防部容器平台项目敏感信息泄露风险分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503317&idx=2&sn=2b5f24e936c8c8e8079a7ced2093d0b0": "篇 72：Miljödata AB 数据泄露事件详细分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489010&idx=1&sn=ea4307a2aa1b8fe57146f68a2764c074": "代码审计初学者入门与心得",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485361&idx=1&sn=41e52a1b81fbf2e9504e968d1b091736": "【工具】当代码审计工具遇上MCP，小白也能成为漏洞收割机",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498403&idx=1&sn=52532994f266c11d89a95ca93d996f95": "实战 | 记一次SQL到接口的SSRF",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552724&idx=1&sn=988e9b1ec95ff6137d227cb9a81dea7e": "渗透测试之从绕过密码强制修改到超管"
 }
