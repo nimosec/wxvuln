@@ -24214,5 +24214,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536603&idx=4&sn=0b18b3c1984c9c724f258ad38af3c7d1": "高危预警！Oracle E-Business Suite 漏洞（CVE-2025-61882）可远程执行代码",
     "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510914&idx=1&sn=9b0da07c3e0eafa56dc65d01d371b16c": "Redis 多个漏洞简报（CVE-2025-49844、46817、46818、46819）",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540484&idx=1&sn=e9d020f16cea37d6a9c09de0d8e43666": "深度解析：OWASP AI 成熟度评估模型",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MDU5NjI0Mw==&mid=2247490984&idx=2&sn=fe7587bda2490fe02a047eff4d2cceae": "货拉拉SRC『2025年第三季度奖励』公告"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDU5NjI0Mw==&mid=2247490984&idx=2&sn=fe7587bda2490fe02a047eff4d2cceae": "货拉拉SRC『2025年第三季度奖励』公告",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489323&idx=1&sn=d3dafeedd32f8678cc699e6142858b74": "Oracle E-Business Suite存在远程代码执行漏洞(CVE-2025-61882)附POC",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212719&idx=1&sn=42e82793d08351cade31124b88c415c0": "安天参译《情报驱动应急响应（第二版）》出版",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247484571&idx=1&sn=656893fafaa455cb6e6a319176fd3129": "论文研读与思考｜GTAE IDS：一种基于图 Transformer 的自编码器框架，用于实时网络入侵检测",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520154&idx=1&sn=ef7bb30e2825ba91a8736506bfda0ec6": "一次不寻常的邮箱轰炸漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=1&sn=b002276f0a9f2802d614136c5b4e17a2": "【高危漏洞预警】Oracle E-Business Suite 访问控制不当可导致信息泄露 (CVE-2025-61884)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=2&sn=ec4d29756b6866bb8cf30636bf8f721c": "【高危漏洞预警】Happy DOM代码注入漏洞 (CVE-2025-61927)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyODUzMjEzOA==&mid=2247483975&idx=1&sn=a19bb0c00c531953236cbe552fa883f9": "高级进程注入之利用线程名和APC（下）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484802&idx=1&sn=dc082e2be7d52649a93b66d2ac2e390d": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：基础概念篇"
 }
