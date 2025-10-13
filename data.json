@@ -24154,5 +24154,18 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485346&idx=1&sn=e74eb798a4b75f29d9a9c59ccb389568": "两个 7-Zip 漏洞允许通过恶意 ZIP 文件执行代码（CVE-2025-11001 和 CVE-2025-11002）",
     "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507669&idx=1&sn=aebc4d3200e56ccc8de28abd53e44a36": "一个现代化的网络安全练习和竞赛平台 - CyberPoC",
     "https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492876&idx=1&sn=39af7928d6bf10222320d78a8545a3c8": "【密码学】选择明文攻击(CPA) & 选择密文攻击(CCA)",
-    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184774&idx=1&sn=fa97895b18df889887bf83d70bc0a6b7": "补丁发布前一天，漏洞竟然已被普遍利用了？！"
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184774&idx=1&sn=fa97895b18df889887bf83d70bc0a6b7": "补丁发布前一天，漏洞竟然已被普遍利用了？！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDU5NjI0Mw==&mid=2247490984&idx=1&sn=14bf0bf9baee54ff5e40537656d53b1d": "金秋十月，货拉拉SRC翻倍活动限时回归！",
+    "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562831&idx=1&sn=6ec29b73433121fe1a53609a16d7b109": "DudeSuite 漏洞更新播报 20251013",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494951&idx=1&sn=9aded03312c329b588575ee9dd452ba2": "【已复现】Linux Kernel KSMBD权限提升漏洞(CVE-2025-37947)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484430&idx=1&sn=00a61d856a3e0e72669b9130e97c0268": "【漏洞挖掘Tips】二次上下文路径遍历攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzk4ODEwMzE3NA==&mid=2247486432&idx=1&sn=16443fc169b0fa38bfd561fc3c94462a": "SQL注入基础知识整理",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNDkzMTE0Ng==&mid=2247484331&idx=1&sn=ba94839b4abfa4c564f310445e6ba27c": "渗透测试 | 记某985高校单站获6本证书过程（二）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486640&idx=1&sn=daa89379beedf3a31cba6392718b30a6": "安全工具变凶器！Storm-2603 滥用 Velociraptor",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492360&idx=1&sn=0c13d782dd823ebe8021530547294f15": "漏洞预警 CVE-2025-51281 D-Link DI-8100 缓冲区溢出拒绝服务攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533067&idx=1&sn=56efa777df95d2fe69e530634aaeaf4e": "联想-CVE-2025-8061 针对 LnvMSRIO.sys 驱动程序弹出系统 shell 的 PoC",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584858&idx=2&sn=9adf4c2eee8dc61cf897ebaa79a4e2e8": "安全动态回顾|工信部发布防范PS1Bot恶意软件的风险提示 Crimson Collective黑客团伙窃取AWS云环境数据",
+    "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182981&idx=1&sn=fd5d1c0d0dd023c54434405afdb26d1a": "7-Zip曝任意代码执行漏洞，需更新至25.00及以上版本",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485687&idx=1&sn=e348915aa21b7054ffcd79f49a03b835": "java 代码审计 - URL 跳转",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493924&idx=1&sn=6adeaaf50167c3c1a9b90a384e36b136": "田纳西理工大学 | 基于深度学习的恶意软件检测的自动化机器学习"
 }
