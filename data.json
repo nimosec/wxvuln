@@ -24650,5 +24650,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484727&idx=1&sn=58bc1cc94ec9f92bbf8266bbc3243e39": "渗透测试之从绕过密码强制修改到超管",
     "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520176&idx=1&sn=cd1baf42620353d428f0adcd00158e91": "记一次Android 恶意软件逆向及Frida动态分析",
     "https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492901&idx=1&sn=731bbc07fad01b0761e244681f57efc4": "【密码学】消息认证码(MAC)",
-    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901486&idx=1&sn=7ae09b36134f50836cdfa25e83cf12a5": "大厂也中招？起底朝鲜黑客组织的“病毒式面试”攻击，如何利用 npm 投毒"
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901486&idx=1&sn=7ae09b36134f50836cdfa25e83cf12a5": "大厂也中招？起底朝鲜黑客组织的“病毒式面试”攻击，如何利用 npm 投毒",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzc0MzcwMA==&mid=2247484260&idx=1&sn=e6bbc8815436c4fc964de7f1b6d57ae6": "深安科技大模型防火墙(LLM-WAF)产品发布，为AI安全构筑新防线",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490979&idx=1&sn=1acea748044c3e0752ff27d600e06864": "渗透测试信息收集终极指南：构建全域攻击面视图",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491326&idx=1&sn=0a3fc1f2f4b6b511a30c3ba8e16c4697": "能信安：病毒和恶意代码通告",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664996945&idx=1&sn=e79458fee187740d46b49dc759ba482b": "【业界动态】国家能源局发布《关于加强用户侧涉网安全管理的通知》",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247507274&idx=1&sn=dc1b14cdd3da856d29bcb577805b57ed": "1Day-某UAS企业管理系统存在多处SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136353&idx=1&sn=05e069936a0270908c1d1246b6096e58": "梆梆安全发布《2025年Q3移动应用安全风险报告》，超七成应用抽检存隐私不合规，警惕APP成“隐私刺客”",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493011&idx=1&sn=33086771fc76a68f64534f23d121ba65": "金和 JC6 PathFile XML漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485562&idx=1&sn=fb64f1d3ba953d2a0d80cb70d2b267e0": "玄机第一章应急响应：webshell查杀与Linux日志分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584923&idx=1&sn=c16feaada4f8dc7762929831f726ac63": "RondoDox僵尸网络在全球攻击行动中针对56个n-day漏洞发起攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584923&idx=2&sn=ac0c29caa14b0c0a1304f2aed71988eb": "超10万IP地址发起大规模攻击 僵尸网络瞄准RDP服务",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661303344&idx=2&sn=f7c7b2ba3e7ae46df11e52e315d1dbe4": "长期主义：山石网科以AI为基打造开放融合的智能安全生态",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489025&idx=1&sn=c9ddea3bf0a16f3e0aaf7fbe7b92a322": "图书馆站点几个实战漏洞小案例",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486651&idx=1&sn=70d0e3d5ac4920684f52a4ee52531854": "Jeecg-boot最新漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486692&idx=1&sn=18a1e1fdf380dc675642fb6ca2b85e3a": "思科交换机曝“零迪斯科”攻击，SNMP漏洞沦为黑客持久化后门",
+    "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503511&idx=1&sn=697261a2f77affda292a3e9b6a8e5399": "慢雾出品｜区块链应用中常见的密码学风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507852&idx=1&sn=e5c7ac423331d53679dbd5e4edd68120": "高级狩猎 | 在 2025 年仍然有效的 7 种漏洞赏金实战技巧",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504863&idx=1&sn=d2f8898bd18f0e6d70c999c3f8ba84dd": "移动应用逆向分析：从APK到内网访问权限获取"
 }
