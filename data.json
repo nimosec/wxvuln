@@ -24801,5 +24801,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=1&sn=dfd251290ac4afdfbf070d957ba0f30a": "银狐从中国大陆到马来西亚的恶意软件攻击链曝光",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=2&sn=b41cdc95c48df649f1b35f7b1b71ec3a": "7z 远程代码执行exp CVE-2025-11001",
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489063&idx=1&sn=1681e18874454a77b4e32da2dc228213": "开源漏洞文库推荐，打造自己的漏洞文库，易维护部署",
-    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552956&idx=1&sn=8da31e534856a624a1308d143d5239c6": "js逆向之edu sql注入通杀"
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552956&idx=1&sn=8da31e534856a624a1308d143d5239c6": "js逆向之edu sql注入通杀",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492144&idx=1&sn=200dc4998e32bfa90fa09531181121a7": "隔离内网并非金钟罩：从针对国家授时中心的定向网攻谈起",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484139&idx=1&sn=4fce249b276349425ae44bc9a11b6796": "【安全预警】金和OA-C6系统 ActionDataSet XXE",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NDMyNDM0NQ==&mid=2247485213&idx=1&sn=1cdc103751aa3eb6bd7ba6e98bb5f365": "GB/Tu202f22239‑2019《网络安全等级保护基本要求》中第二、三、四级要求项对比（安全运维管理）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=1&sn=2df2b4968713ed9a9e88c9c84f5882cf": "CVE-2025-49144 PoC 供安全研究人员测试和尝试",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=2&sn=82a1222b06b4a4b1dade45d35a93c7ac": "CVE-2025-59287 — WSUS 远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=3&sn=1c1a98a67cfded0aeac5d1c41f969097": "CVE-2025-8941：Linux-PAM 中的严重权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637663&idx=3&sn=b689b2f4cc7ee9e34883a013b13971ca": "未履行数据安全保护义务，湖南一文旅公司被罚15万元",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637663&idx=4&sn=206b8d9b09401ed944d2735775fb603e": "朝日啤酒遭勒索攻击，物流瘫痪，员工数据泄露"
 }
