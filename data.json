@@ -24785,5 +24785,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500826&idx=1&sn=384e28799a8cb113e496fb1e14a07068": "[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路",
     "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496399&idx=1&sn=be5b83dbdd510b6356d3d5560e2a7c47": " ] [技术分享｜LIAN——通用高精度代码安全分析技术",
     "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493783&idx=1&sn=da73b8cd1b34b9b1c1505c8955011fcd": " ] [恶意代码自动化分析",
-    "https://mp.weixin.qq.com/s?__biz=MzkxODg3MTU4NA==&mid=2247484295&idx=1&sn=92f0474593bb32dc6087d690e2127b9c": " ] [CVE-2025-11001分析复现"
+    "https://mp.weixin.qq.com/s?__biz=MzkxODg3MTU4NA==&mid=2247484295&idx=1&sn=92f0474593bb32dc6087d690e2127b9c": " ] [CVE-2025-11001分析复现",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486481&idx=1&sn=1b29368f3774a85dc033daa0c53329d6": "基于LLM的Web漏洞PoC自动生成探索",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072291&idx=3&sn=7b40deaad476d5d3d94f363b9f09d1a9": "【安全圈】银狐组织扩散 Winos 4.0 攻击至日本与马来西亚，携带新型 HoldingHands 后门",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDQwNDI3MQ==&mid=2247484115&idx=1&sn=ee32d5800121059e0534339377a0ba15": "数字取证-钉钉 TG账户接管",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328929&idx=3&sn=1d97252ebf7f1bb3610a8af109b34f06": "微软数字防御报告：自动化漏洞利用技术颠覆传统",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485481&idx=1&sn=16024d5dbc80434edca170704e61f125": "CVE-2025-59287 WSUS 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498434&idx=1&sn=c1770705d8fc605513a09d38531e8afe": "通过操控响应来实现ssrf",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485640&idx=1&sn=0beb1b92bd6b71701d19129b4bff0f6a": "SRC挖掘之优惠券",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486201&idx=1&sn=296ae69c5df956b27ee28a31d72f745d": "CTF 密码学专项：从特征识别到 Flag 解码的实战指南",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485619&idx=1&sn=438d05c25d1fb3fdf45bc13f0c0f7592": "防范钓鱼攻击：当有人给你打电话或加你微信说“我是信息科的”，真的吗？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485862&idx=1&sn=294960f8d85cb212cea061519e68d03d": "深度解析 7-Zip CVE-2025-11001 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485196&idx=1&sn=a40568bb2665379d086fbddc33fc24dc": "【漏洞复现】用友 U8 Cloud NCCloudGatewayServlet 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488165&idx=1&sn=e936810d15902a64c751b682511e1a0e": "Microsoft Defender 漏洞允许攻击者绕过身份验证并上传恶意文件",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=1&sn=dfd251290ac4afdfbf070d957ba0f30a": "银狐从中国大陆到马来西亚的恶意软件攻击链曝光",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=2&sn=b41cdc95c48df649f1b35f7b1b71ec3a": "7z 远程代码执行exp CVE-2025-11001",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489063&idx=1&sn=1681e18874454a77b4e32da2dc228213": "开源漏洞文库推荐，打造自己的漏洞文库，易维护部署",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552956&idx=1&sn=8da31e534856a624a1308d143d5239c6": "js逆向之edu sql注入通杀"
 }
