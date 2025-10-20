@@ -24916,5 +24916,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489072&idx=1&sn=6baa9158e02698c26c4f610ab1362ff7": "渗透测试代理池获取，IP被封了换个代理再测",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485872&idx=1&sn=97c194f27f17aa1f4fbfdf0b5dc676c4": "CVE-2025-55315 漏洞复现：ASP.NET Kestrel HTTP 走私漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487148&idx=1&sn=4da0b41d9da371d0fcf9ea8f7b51ae0f": "2025年渗透测试工具Top 30全面解析",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503573&idx=1&sn=b1804f5bbedd5df6f1c11e86283cc637": "雷神众测漏洞周报2025.10.13-2025.10.19"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503573&idx=1&sn=b1804f5bbedd5df6f1c11e86283cc637": "雷神众测漏洞周报2025.10.13-2025.10.19",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490878&idx=1&sn=2a7e8c0823c1aaa6d705bfdef6c2e6e6": "【高危漏洞预警】Linux内核af_alg写入漏洞(CVE-2025-39964)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzAzMjU0OA==&mid=2247553396&idx=1&sn=7c72f3599397d774443f5d224871687c": "关于发布国资国企在线监管安全运营中心授权建设分中心目录的通知",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489392&idx=1&sn=3d56a9edd29fbea34bd5bd8714e719d6": "金和OA DownLoadBgImage.aspx接口存在文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=1&sn=f3add6ff1e3214485e591d4a24b291ce": "CVE-2025-11001、CVE-2025-11002：7-Zip 的符号链接处理漏洞可能允许任意文件写入/远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=2&sn=1f515413fc380642e71a0e9893285799": "CVE-2025-59230正在被利用 Windows 远程访问连接管理器中的 0 day 漏洞发起持续攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524497&idx=1&sn=70e415036e34cc5959f2f455bc50b7e8": "Redis未授权访问详解——新手友好",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493175&idx=1&sn=8984c66c4c8df99368db84649edd7dd3": "数据安全警钟再响！一文旅公司因安全漏洞被罚15万元",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484165&idx=1&sn=c1a02bbcd668afaed835171f4ee5873f": "【安全预警】红帆OA MobileOA SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487094&idx=1&sn=f73d456485795a59dc286fc14585136f": "JS逆向新思路：从调用链分析绕过单次请求校验（记一次越权漏洞挖掘）"
 }
