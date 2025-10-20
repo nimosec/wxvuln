@@ -24869,5 +24869,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5MjgxNTQ1MA==&mid=2247488528&idx=1&sn=a5f5345a7a695233f68ca0a95ed4d5ed": "苹果手机已知被利用并被用于黑客/间谍软件攻击漏洞列表",
     "https://mp.weixin.qq.com/s?__biz=MzE5MTI0MjgyOA==&mid=2247483737&idx=1&sn=49fa67ec4c2a6d640757abd0e9784335": "API文档未鉴权导致后台敏感信息泄露",
     "https://mp.weixin.qq.com/s?__biz=MzkwNzM5NDk4Mw==&mid=2247484336&idx=1&sn=4f028bf8aa04578e26acccde6f8adb6a": "多云/混合云下的安全运营",
-    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493827&idx=1&sn=7499f38b022c0827a360e3c06b3d9ff3": "美国Operation Triangulation攻击行动取证分析与情报关联"
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493827&idx=1&sn=7499f38b022c0827a360e3c06b3d9ff3": "美国Operation Triangulation攻击行动取证分析与情报关联",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247561059&idx=2&sn=40480d8d0458600247c104804bf358ba": "SOC和SecOC和E2E傻傻分不清楚？",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627900&idx=3&sn=9cfe52c7b16cf99704e1984bf0db1235": "etas、stellantis: 通过行业合作优化汽车入侵检测技术",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507865&idx=1&sn=9a7e2c8b3d86ae77d74727b030de938d": "Android 渗透测试实战——TikTok  rce远程代码执行案例分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494978&idx=1&sn=4cef61f8eb8fb7544da69693e06e0e75": "【首发复现】Linux 内核 ALG 模块越界访问漏洞(CVE-2025-39964)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661303361&idx=2&sn=0b70277ed138211a6141c51a0cbbb308": "行业验证：山石网科ASIC防火墙在浙江某区级教育局的卓越表现",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584945&idx=3&sn=f4cee4486163f443d00ace287dc638d5": "安全动态回顾|NVDB提示：防范Google Chrome远程代码执行高危漏洞风险 微软10月补丁星期二修复172个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484622&idx=1&sn=f534617ce3cd87e323f7c00ee14f918d": "【已复现】漏洞预警 | Cherry Studio客户端命令执行漏洞（CVE-2025-61929）",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247534700&idx=1&sn=453f79a488bb6fabaae2e877f1533233": "一级贡献！斗象在我国网络安全漏洞治理工作中发挥积极作用",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247534700&idx=2&sn=c1f7e686a511429b62ad73e5179d529c": "做好漏洞报送“排头兵”，斗象再登CNVD年度多项表彰榜单",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247484943&idx=1&sn=a081d66c400039ce22f9266e211fd0f3": "严重的RasMan本地提权漏洞"
 }
