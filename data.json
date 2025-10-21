@@ -24925,5 +24925,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524497&idx=1&sn=70e415036e34cc5959f2f455bc50b7e8": "Redis未授权访问详解——新手友好",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493175&idx=1&sn=8984c66c4c8df99368db84649edd7dd3": "数据安全警钟再响！一文旅公司因安全漏洞被罚15万元",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484165&idx=1&sn=c1a02bbcd668afaed835171f4ee5873f": "【安全预警】红帆OA MobileOA SQL注入",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487094&idx=1&sn=f73d456485795a59dc286fc14585136f": "JS逆向新思路：从调用链分析绕过单次请求校验（记一次越权漏洞挖掘）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487094&idx=1&sn=f73d456485795a59dc286fc14585136f": "JS逆向新思路：从调用链分析绕过单次请求校验（记一次越权漏洞挖掘）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4": "sql注入bypass与poc大总结",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495283&idx=1&sn=5601c82709119c39b37c6c1d9ac70c48": "FastMonitor网络流量监控与威胁检测工具|工具分享",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516550&idx=1&sn=aa7859917164797533f235770c018a5a": "安全的最大误区：以为隔离了内网，就隔绝了威胁",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496063&idx=1&sn=01a7127748cbdca771450184a337c36a": "工具推荐 | 最新开源多人协作红队渗透框架",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119031&idx=2&sn=edecc474e729d6fa2033a7aa81988a07": "黑客利用Oracle EBS漏洞攻击美国航空子公司Envoy"
 }
