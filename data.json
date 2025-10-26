@@ -25394,5 +25394,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487417&idx=1&sn=136a8ba9aec41b14f774e4f084d444fe": " ] [某PHP系统前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797235&idx=1&sn=241cf498823ee6fdffcfb4d592f74b53": " ] [漏洞赏金猎人必备：如何通过漏洞编号秒速定位POC",
     "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485708&idx=1&sn=a8e8c10e95649ed8c4b9c29214ff2458": " ] [几款浏览器未授权漏洞挖掘插件分享",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575418&idx=2&sn=2836fce58602892fa8b95f9de3186f39": " ] [太绝了！5张思维导图搞定Web安全知识架构"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575418&idx=2&sn=2836fce58602892fa8b95f9de3186f39": " ] [太绝了！5张思维导图搞定Web安全知识架构",
+    "https://mp.weixin.qq.com/s?__biz=Mzk4ODI4MDEzNQ==&mid=2247483961&idx=1&sn=6a6da41488c979415f9825fd678bacdf": "超越传统警报：构建智能情境感知威胁检测系统",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490951&idx=1&sn=43ce67a5e9589ada8a3ae3b3ea4802c4": "跨语法雷区：利用语法混淆进行漏洞利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjkwMDY3OA==&mid=2247485809&idx=1&sn=ff06b5359693b754add3b857e06c6839": "【漏洞复现】Unibox路由器download_csv.php存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483740&idx=1&sn=7cddd47901f6cf15ca2f9c8574a64fd1": "XWiki 存在任意文件读取漏洞CVE-2025-55747 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488221&idx=1&sn=01f697e35abf4b3140beff0373bd8d55": "CVE-2025-33073 针对 NTLM 反射 SMB PoC"
 }
