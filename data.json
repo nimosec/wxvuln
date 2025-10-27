@@ -25469,5 +25469,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486293&idx=1&sn=ca3e76de93fef943eb42b8d659d74992": "2025-10-27 最新CVE漏洞情报和技术资讯头条",
     "https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247487316&idx=1&sn=fa7f2f811a76fb1339ff428bcca75014": "渗透测试辅助工具mSS-GUI v0.1更新：新增GUI和webpack处理插件",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485551&idx=1&sn=6946ad1f0556a4eec8bb26c4041f5b93": "戴尔存储管理器严重漏洞（CVE-2025-43995，CVSS 9.8）允许未经身份验证的 API 绕过",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549299&idx=2&sn=53b81dc7ed31a1ebda9e80bd31248290": "【高危漏洞预警】Windows服务器更新服务 WSUS远程代码执行漏洞CVE-2025-59287"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549299&idx=2&sn=53b81dc7ed31a1ebda9e80bd31248290": "【高危漏洞预警】Windows服务器更新服务 WSUS远程代码执行漏洞CVE-2025-59287",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484948&idx=1&sn=f8f6b3e55768ab8d5e09d021d91da747": "【复现】Windows Server Update Service远程代码执行漏洞(CVE-2025-59287)风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjAyMjU4MA==&mid=2649597672&idx=1&sn=07eecde1e0dcec11c1d662e317fc889b": "标准解读 | 《GBT 46068—2025 数据安全技术个人信息跨境处理活动安全认证要求》",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262187&idx=1&sn=fe0ab9f0a08b9050e469de9185ff9d4c": "WhatsApp百万美元漏洞演示临时撤档",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MjE0OTQzMw==&mid=2666307422&idx=1&sn=edfb1005287056de120f5bd9c5b9ab08": "2025 TechWorld | 数驭未来·数据安全专题论坛精彩回顾",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTM4MTIxMA==&mid=2247485643&idx=1&sn=1dd9c293614945ad03be14e7b84a61d8": "【通知】2025第四期环境物理安全检测技术培训暨防窃视智能探测仪RG01同期上市发售会通知",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650386027&idx=1&sn=ba52f3f858505271ce5997d8f9264318": "南方数智医疗健康大会丨迪普科技聚焦医院AI安全监测能力，构建智能安全防护体系",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490958&idx=1&sn=c02fd61f3a371da2ed2ea915c1b5b2d9": "CVE-2025-59287 — WSUS 未认证远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484464&idx=1&sn=38afb29e8971955db637ed105d214b33": "SRC漏洞思路分享：通过 OneForAll 挖掘子域，发现与修复云存储“列桶/暴露”风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486704&idx=1&sn=063295c396de6333381ef99830349ae9": "供应链攻击进入新阶段：自我传播的 GlassWorm 蠕虫席卷开发者生态系统",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODkxMTEzOA==&mid=2247484713&idx=1&sn=350bf74ba761a7e58a9b28d622151477": "银狐情报在线共享文档",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NTg4MzIzNA==&mid=2247484953&idx=1&sn=1f4f5267262a9b11f0ebbc5a5871bf73": "银狐情报在线共享文档",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585043&idx=2&sn=d620150b7964f8930078220610e10b2a": "安全动态回顾|CSTIS发布关于防范SEO投毒攻击的风险提示 TP-Link警示Omada网关设备存在高危命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485719&idx=1&sn=a2e92e2d4d258816b6f7774a99783853": "远控木马威胁IP攻击web网站payload",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507921&idx=1&sn=05687191da6a380954cce83e090a75c7": "我是如何在漏洞赏金中赢得 1100 美元，这改变了我的生活",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525481&idx=1&sn=a6da87bd954d658fe2332973a249fb50": "搞定CISA自学！考试包套餐是真行",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553080&idx=1&sn=a293d74fd4ec2c8937230ae604c07e7a": "越权漏洞-小白也能轻松上手SRC！"
 }
