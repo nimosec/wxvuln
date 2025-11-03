@@ -26216,5 +26216,22 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487506&idx=1&sn=9dd94b4ee58ed2066507e56a036d5678": "记某综合管理系统代审前台Http_SSRF到RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489097&idx=1&sn=a9edb61e9b06d5008252912296b745fd": "企业赏金SRC实战中危案例｜收费视频资源突破",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489097&idx=2&sn=7d44ab93bdfea5094d59b24832a63842": "证书站实战｜多API接口组合攻击漏洞案例",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485668&idx=1&sn=54fa730ee0ad37774102dd618a0c2b89": "WordPress 插件严重漏洞（CVE-2025-8489，CVSS 9.8）允许未经身份验证的管理员接管账户"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485668&idx=1&sn=54fa730ee0ad37774102dd618a0c2b89": "WordPress 插件严重漏洞（CVE-2025-8489，CVSS 9.8）允许未经身份验证的管理员接管账户",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504095&idx=1&sn=207d2951854a132a075d599eb74cacd7": "【已复现】JumpServer ConnectionToken 权限验证不当漏洞(CVE-2025-62712)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495156&idx=1&sn=8e09f69f71d012ef722149b76cd1e0a9": "【安全资讯】SAS 2025披露汽车厂商零日漏洞，可远程控制汽车，威胁行车安全",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496464&idx=1&sn=4ae989f66cbc49dad8bf3659e733c8ec": "CNVD漏洞周报2025年第42期",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496464&idx=2&sn=41f254ee0dadde457d733b7b815fc85a": "上周关注度较高的产品安全漏洞(20251027-20251102)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262209&idx=1&sn=acf63b442fcadb961e29ff786612d4f7": "【$25,000】CVE-2025-52665 RCE 挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQwMjYxNg==&mid=2247483836&idx=1&sn=6171a7f91bc327e5f5d3c02447fafb69": "【2025漏洞挑战专项第三期V1.0】白帽子集结令！火力全开",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484511&idx=1&sn=9341fdcbcc5ba234121a890fc51ed83b": "代码审计小挑战(文末抽奖)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247485256&idx=1&sn=0474ea7dab96b084ecd61715bc88e70b": "PC应用程序渗透测试",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252303&idx=2&sn=26b3b374bbacca37958e92759b2bdb34": "关于数据出境安全管理，国家网信办最新答复！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487253&idx=1&sn=f41dc0b3a9fabff2714c6fd86ccb9226": "CSPT 漏洞原理、利用与实战浅析",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585126&idx=1&sn=9385ee3bf8e2555b92879dba3f03b9a7": "勒索软件攻击受害者付款率创历史新低 仅23%企业妥协",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585126&idx=2&sn=2bd8b21d75d17810d18190ddf4ae5231": "安全动态回顾|网络安全法完成修改 新型Atroposia恶意软件上线内置本地漏洞扫描功能",
+    "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886308&idx=1&sn=f6a5536840b9237152fa35d4b72faadc": "构建大模型安全自动化测试框架：从手工POC到AI对抗AI的递归Fuzz实践",
+    "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562848&idx=1&sn=144e70d0cbd1a5fab08fbf6338143c0c": "DudeSuite 漏洞更新播报 20251103",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486210&idx=1&sn=36f81846aaf21763241804f2af707c01": "弱口令账户巡检报告应该怎么写",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517535&idx=1&sn=5d5c487e563423ca187adf3472e659cf": "Nacos综合漏洞利用工具 -- NacosExploit（11月1日更新）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498992&idx=1&sn=a8c711ce3c18cf8071081aba0d8b1297": "鸿蒙(HarmonyOS)病毒检测工具V4.0"
 }
