@@ -26396,5 +26396,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490797&idx=1&sn=01f054c79a6ae9e2326533d85c8f6454": "Sudo堆溢出漏洞分析及利用",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjY1NjI2MQ==&mid=2247484007&idx=1&sn=4ce9a5aad08b73b041dddbc56be61e34": "Webshell木马免杀工具",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540700&idx=1&sn=08a74f956aafc945fe3939cd7ac2033e": "2026年的AI安全运营中心：下一代SOC平台的分水岭",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499002&idx=1&sn=2d76648e5e83d1677bed0f439963c6d8": "Android Root Expert v4.5 - 专业多平台提权与刷机工具"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499002&idx=1&sn=2d76648e5e83d1677bed0f439963c6d8": "Android Root Expert v4.5 - 专业多平台提权与刷机工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490942&idx=1&sn=62039db9a9e74ecd9d1ad699b24da857": "【高危漏洞预警】React Native CLI 远程命令执行漏洞CVE-2025-11953",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247488025&idx=1&sn=334f0d0f28e87be90a613e68ab05c1d3": "论文研读与思考|CTINEXUS：基于大型语言模型的自动网络威胁情报知识图谱构建",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489474&idx=1&sn=b3c36f4caf17aace1b5ca164f529243e": "中成科信票务管理系统OrderManager.ashx接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183448&idx=1&sn=cca33a014a93e95880058180138294f5": "更新系统！安卓13-16存在零点击远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2MDIwNQ==&mid=2247483748&idx=1&sn=8d9fde14d104a0620e800e05ad1e95fd": "WEB视角下的客户端安全测试",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MDk4OTk0NA==&mid=2650126683&idx=1&sn=8a65e2d9ebdda6f83a203c41607add3a": "这才是新一代网络安全架构：AI 大模型驱动，90 秒拦截零日威胁，告别 “事后救火”",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521027&idx=1&sn=badca6b9aede18e3d17f826fba93ab72": "【SRC实战】通过FUZZ挖掘高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494100&idx=1&sn=b999d5bec9168f137b72f18aade7190c": "银狐最新反沙箱内存免杀样本分析"
 }
