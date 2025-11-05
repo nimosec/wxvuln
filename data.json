@@ -26451,5 +26451,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796778&idx=3&sn=b38540622d70c53ca009b9aa6dfebba0": "热门 React Native NPM 包中存在严重远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491755&idx=1&sn=6cddfb2223a3bd19cd832adb21ef06fb": "PHP代码审计靶场+懒人专版",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549469&idx=2&sn=6efb5106bcc03f6c8c82dc0c5e127fce": "逾百万患者病历数据泄露，医疗软件供应商赔偿超1.37亿元",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488294&idx=1&sn=4319f5e9d04fe06ee86aacc3ae0c390d": "Cloudflare WAF XSS"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488294&idx=1&sn=4319f5e9d04fe06ee86aacc3ae0c390d": "Cloudflare WAF XSS",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525612&idx=2&sn=4dc5f0e097444acddf9f854d77b74ff6": "双 11 抄底报名 CISSP！2026年班期随心选，开班计划抢先看→",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=1&sn=55d551fdf2cb47aa8f347bdd343c3f58": "Android 0-Click允许远程代码执行攻击漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=2&sn=40f28e3c7ab1e617f7669fdcadc175ec": "AMD Zen 5 处理器 RDSEED 漏洞：随机性失效引发完整性破坏",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490465&idx=1&sn=97fe75bd6159e2ee4f2d61619e45ac81": "WatchVuln-web 一个用于监控和展示漏洞信息的全栈 Web 应用",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789366&idx=1&sn=f40c330770275d68e29245d678ceb344": "瑞典市政系统核心供应商被攻击，150万民众隐私数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483821&idx=1&sn=008bacea64fc411cdb6406b1e7e2ba68": "GeoServer TestWFSpost 存在SSRF漏洞CVE-2024-29198 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463809&idx=1&sn=6e284170082a5dbbba8edc82bb395bf2": "信息安全漏洞周报（2025年第44期）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585161&idx=1&sn=9a5ca3cdc0db8437b05fab7c210014dc": "Open VSX代码仓库泄露访问令牌引发供应链攻击 恶意扩展程序被植入",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488366&idx=1&sn=3f18435301ae6e51f22fab31122ed767": "Knownsec数据泄露？",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491615&idx=1&sn=bf3eb74c518a3deb37c42e83622e5fc1": "Java反序列化漏洞黑盒挖掘思路-下篇",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485651&idx=1&sn=a224df4687425bee790c95a97c789153": "若依（RuoYi）框架漏洞总结",
+    "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507192&idx=1&sn=0eac9d9e995d9d42ee7483c74a125f46": "亚信安全 - 应急响应专家",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508045&idx=2&sn=9bdf0f918adae6a3241a3dd611c600a6": "为什么数据包模糊测试对漏洞悬赏仍然有价值",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487113&idx=1&sn=e84de83ed07a015da483250a216b90ec": "朝鲜APT Lazarus 翻车！偷加密货币时暴露真实 IP，9 个月狂盗 20 亿竟为造核弹"
 }
