@@ -26691,5 +26691,22 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549531&idx=3&sn=a71ca6c1f061b15a797c727caa511891": "【\\\"等保\\\"专题】GB/Tu202f22239‑2019《网络安全等级保护基本要求》中第二、三、四级要求项对比（安全管理中心）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488299&idx=1&sn=18b6bb768ca388c28fb0a47f705af35a": "Docker Compose 路径遍历 （CVE-2025-62725） 允许通过 OCI 工件覆盖任意文件",
     "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507196&idx=4&sn=f08e96b82c97afaad38322ed20413609": "羊城晚报社会招聘信息安全工程师",
-    "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484642&idx=1&sn=95648ebdf524443841aa6b39797cad05": "AI容器的安全幻象：路径穿越漏洞案例研究"
+    "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484642&idx=1&sn=95648ebdf524443841aa6b39797cad05": "AI容器的安全幻象：路径穿越漏洞案例研究",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491380&idx=1&sn=9b3914f4b11a6c1c8b7d04bf07bd1e63": "能信安：病毒和恶意代码通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488340&idx=1&sn=2a9c9f3809a72fde2bf998418a13fc56": "应急响应后门排查处置指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488340&idx=2&sn=92a23b140d5691eeaa5de410d60d6c6c": "内网渗透应该如何做",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533421&idx=1&sn=30972cc727df5d6b837709fd7f5ed1a8": "安全报告：CVE-2025-64459 — Django QuerySet _connectorSQL 注入",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509629&idx=2&sn=8f6f1eb82c1f9c446e57d9186f8438c6": "秋冬福利季｜速来⏳10个漏洞轻松赢最新款周边！",
+    "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562853&idx=1&sn=bc0d16218fecc81ef5aa64ede6a8b026": "DudeSuite 漏洞更新播报 20251107",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789373&idx=1&sn=23dbbc6520d871be580baf1455ec6516": "ChatGPT曝七大漏洞，可诱使AI泄露记忆与聊天记录",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521259&idx=1&sn=921de1bb763fcf63e63342bdd12bc1fa": "安全大厂实验室的《Web漏洞分析与防范实战》什么水平？",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDcyODYwNw==&mid=2247487541&idx=1&sn=d7a21a658c9079529e5cfa9e6019206c": "春秋云镜靶场渗透测试--Certify",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139258&idx=1&sn=c1e16d728603b322c78798c3caa2cac9": "超越渗透测试！每家企业都应开展的10项实战化网络安全演练",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139258&idx=2&sn=1c5e3e24e36adb99a54567b2b477a1a7": "中国牵头制定的工业5G国际标准发布；92%漏洞检测率!OpenAI推出AI安全研究员颠覆传统防御模式 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553314&idx=1&sn=ca52e2f09e085de5b2ea83e71cb611a4": "web渗透实战 | js.map文件泄露导致的通杀漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNzM5NDk4Mw==&mid=2247484344&idx=1&sn=9932f023a73642d9537d76a276bc3dda": "安服仔如何研判之——反序列化",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY3ODk4MQ==&mid=2247484577&idx=1&sn=472f2303b8117714f1112fd432c5b53a": "安服仔如何研判之——反序列化",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508079&idx=1&sn=4268406fd76b7d5c680e2719d06b9bfe": "Signal 桌面版 在附件保存中存在路径遍历漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495693&idx=1&sn=e77e89079ca827718f304c8086874ec5": "一文读懂｜ByteSRC AI业务挖什么、怎么评、奖多少",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488879&idx=1&sn=98259a4790b03a3f28538feaf21b067d": "CVE-2025-51482 漏洞分析：Letta AI 组件代码注入导致远程命令执行（RCE）"
 }
