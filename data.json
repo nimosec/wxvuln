@@ -27473,5 +27473,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260551&idx=1&sn=5415f033ed88646ba5346b935dd2066c": "零日漏洞攻击锁定Cisco ISE和Citrix系统，一场高度复杂的攻击行动正在展开",
     "https://mp.weixin.qq.com/s?__biz=MzA3OTM4Mzc5OQ==&mid=2650105461&idx=1&sn=f24bf5c6f9d13c2a49da76c8d4fdae78": "@天创CISP学员：“CISP十年荣光奖”申报通道正式开启，速来抢占荣誉席位",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493048&idx=1&sn=5cd4425d8beb0d5db702f63b49f6a600": "记一次edu攻防未授权+fuzz隐藏参数到SQL注入",
-    "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489328&idx=1&sn=f815b915cfa712027a3cc6c191efc08a": "关于防范Redis数据库内存释放后重用超危漏洞的风险提示"
+    "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489328&idx=1&sn=f815b915cfa712027a3cc6c191efc08a": "关于防范Redis数据库内存释放后重用超危漏洞的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490992&idx=1&sn=1271e5bd9762b896bd1c40b3c889518d": "【高危漏洞预警】Apache OFBiz任意文件上传漏洞CVE-2025-59118",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515508&idx=2&sn=a9b2acdda46e4d633d798059c5a6625b": "【第五空间简史】第2节 缓冲区溢出“前传”",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515508&idx=3&sn=2406f63ffac21b65de2f0f7841f3e9e8": "【第五空间简史】第3节 密码学的数学转向与革命",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489519&idx=1&sn=0829ee65125f779710573ace4dfd9e81": "React Native CLI open-url接口存在远程命令执行漏洞CVE-2025-11953 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499105&idx=1&sn=7ad69611d75a98fffd9269d434c5a5d9": "移动应用AI智能安全分析平台V9.0",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247488798&idx=1&sn=b2a73913bbdb821033278953d601b739": "论文研读与思考|动态隐私——社交网络中大语言模型的动态隐私保护",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652543265&idx=1&sn=11f74e22391db713ccf5989b3f921362": "冲刺战打响！2025 BSRC 年终奖重磅解锁！",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484855&idx=1&sn=066acb504bfe34e33e43346f359df5cc": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：文件上传漏洞原理（一）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797375&idx=1&sn=2261018878113749717138296486503a": "赏金猎人必备资源：高效检测企业弱口令的终极工具清单"
 }
