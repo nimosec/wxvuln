@@ -28717,5 +28717,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=3&sn=2dab9ec6ceb1df3e71b70e33ac75abe4": "NVIDIA Triton推理服务器Python后端命令注入漏洞（CVE-2025-23316）",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493434&idx=1&sn=0d783e2f46c13a3643987124b5048627": "南北软件ERP ListDir.jsp 目录遍历漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484674&idx=1&sn=ee0129f2674a549ee73e94ff0b5b8dcc": "【漏洞挖掘Tips】将JS伪造为 PDF 的一些方法",
-    "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486077&idx=1&sn=f133d6336e7500174bcb6aa42284a328": "记一次edusrc7rank的简单挖掘"
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486077&idx=1&sn=f133d6336e7500174bcb6aa42284a328": "记一次edusrc7rank的简单挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTI5NzY4MA==&mid=2247486157&idx=1&sn=eda688d9266c43b2d7274632e3a35ff7": "QQ_9.9.25客户端XSS",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MjI0MDAyMg==&mid=2247488860&idx=1&sn=6f5419f45ea89e3aa12d5f3d1cd6066e": "安全运营的第一入口将被大模型重写：UI 的终结与智能体的崛起"
 }
