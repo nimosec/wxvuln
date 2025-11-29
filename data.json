@@ -28682,5 +28682,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381": "CVE-2025-13156 wordpress WooCommerce 的销售点 (POS) 系统",
     "https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485842&idx=1&sn=a6107c87d3a80bea877ac23c443c75c6": "网络安全框架全景解读（中）：安全治理与体系建设",
     "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247496552&idx=1&sn=484f1f7962fd7a2e3e7ec08e400bcf79": "网络安全行业，网络安全人士必须掌握的六个网络安全工具",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b": "美大型企业集团 Cox Enterprises 披露因 Oracle E-Business Suite 漏洞导致的数据泄露事件"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b": "美大型企业集团 Cox Enterprises 披露因 Oracle E-Business Suite 漏洞导致的数据泄露事件",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757": "华天动力协同办公系统travelAjax存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37": "POC|弥特科技全流程追溯系统geticp存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508379&idx=1&sn=0b837f487f659fd44897dbe60bc60c97": "【一周安全资讯1129】国家网信办《网络安全标识管理办法》公开征求意见；意大利国家铁路2.3TB敏感数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650213186&idx=1&sn=e1a812c6d4a8a766c98eb7c8d2b4d7e8": "安天AVL SDK反病毒引擎升级通告（20251129）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487940&idx=1&sn=0372e2c276feca869a662464a747bb7a": "第142篇：蓝队分析工具箱解密多层加密的恶意网页演示",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508416&idx=2&sn=bccda446909907dce49e9245b5f9e198": "导致我获得第一个赏金的简单漏洞（可复用的激活链接 → 账户接管）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486237&idx=1&sn=3827ad774c2fe98a0d84d8c0ae573656": "2025年团队漏洞挖掘赏金部分成果汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507504&idx=1&sn=faf97636bccf98e26f9e288807c55958": "超全！CISP全类别详细介绍，后面有福利",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c": "【优质工具】威胁情报安全运营平台",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500456&idx=1&sn=a387c3c0297646c3b5570778aa3e4418": "记某vue框架网站的渗透测试",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500921&idx=2&sn=3efe523b1aad5d98321870e11a553d4d": ".NET内网实战： 通过 FileSecurity 获取目录及文件控制列表和规则",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485144&idx=1&sn=6ef8a9eacc6df9dd0f87c2c453cf3912": "【漏洞情报】Revive Adserver用户管理系统中的\\\"添加用户\\\"查找功能导致信息泄露"
 }
