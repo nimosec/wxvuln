@@ -29497,5 +29497,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NDc0MjUxMw==&mid=2247486510&idx=1&sn=941db44cca26b00be15ee16dac70fd07": "紧急预警！CVE-2025-55182：React Server Components 远程代码执行漏洞来袭",
     "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484331&idx=1&sn=26484b7c1718907fa8ea7dee2eb2c681": "CVE-2025-55182",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485336&idx=1&sn=ee5324f66e6093ded4633350ec3a129c": "【漏洞预警】React 和 Next.js 中的严重远程代码执行漏洞（CVE-2025-55182）",
-    "https://mp.weixin.qq.com/s?__biz=MzIyNjk0ODYxMA==&mid=2247487723&idx=1&sn=447d3ac10eb3f1823cbebb7a49ab7da1": "「\\\"Nextrap\\\"」开源框架安全事件分析：Next.js远程代码执行漏洞正在被黑灰产用于挖矿攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzIyNjk0ODYxMA==&mid=2247487723&idx=1&sn=447d3ac10eb3f1823cbebb7a49ab7da1": "「\\\"Nextrap\\\"」开源框架安全事件分析：Next.js远程代码执行漏洞正在被黑灰产用于挖矿攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515659&idx=2&sn=3e8d95f0aa92edea96e37b137e488cd7": "React 远程代码执行漏洞（CVE-2025-55182）复现注意要点",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTcwNzEwOA==&mid=2247483823&idx=1&sn=2c90c76f6ce9294ac29c35c7fb8b63d0": "CVE-2025-55182 Dify内存马二开加验证",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MzAzMzk3OA==&mid=2247485230&idx=1&sn=180ade46a3f8192c4223d57a9ecffbfb": "密码学CTF题目-密码学",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496085&idx=1&sn=22f362fd2642d32d311d76a68d3d368f": "覆盖全场景！Next.js RCE 多个 POC 合集整理：无/有回显/内存马/反弹 Shell|CVE-2025-55182",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494209&idx=1&sn=da8c89ed66279b3d87cc14f08ec155be": "华硕警告称：AiCloud路由器存在新的严重身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516867&idx=1&sn=133ff2357e9462236be9b7102be46729": "SSL握手里的“门道”：一次加密通信的诞生，运维必知！",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247496885&idx=4&sn=1c89fbc33c641cd0dde8f25ca66ef51e": "网络安全行业，为什么一定要构建应急响应和演练机制？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503127&idx=1&sn=e775e8beccc98ad2e63b38e047dee235": "针对构建数据安全文化的一点补充"
 }
