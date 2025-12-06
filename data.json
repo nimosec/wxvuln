@@ -29539,5 +29539,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484230&idx=1&sn=5c614ca804549d44d3206ff7ccc3b4ed": "【复现】React服务器组件 - 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484168&idx=1&sn=fbadb9372c6a70f48e36932ac90e9790": "【安全预警】MailEnable Failure 反射 XSS",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247570605&idx=1&sn=8cd0cc8274fce4e393f91177c22ff2a8": "网警护航“研考季”|研途无诈，上岸有道——考研网络安全防护指南",
-    "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486539&idx=1&sn=20c96aff16c91e7544c16809d38e35e0": "「企业SRC」SQL排序注入&云安全Minio渗透测试"
+    "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486539&idx=1&sn=20c96aff16c91e7544c16809d38e35e0": "「企业SRC」SQL排序注入&云安全Minio渗透测试",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d": "CVE-2025-55182｜React/Next.js远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08": "CVE-2025-58360｜GeoServer未经授权的XML外部实体注入漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247581303&idx=1&sn=fe84101fe59014c3537257e1d47c0658": "网信办发布《网络数据安全风险评估办法（征求意见稿）》",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484024&idx=1&sn=17062de33dbf8d15335f4c9b18cb1fd7": "帮管客CRM jiliyu接口存在SQL漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575971&idx=1&sn=c5106d9eae9ce8cd64d3a4dc5fb35e6b": "攻防演练事件研判篇（HW本文足够中高级）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545882&idx=1&sn=c7759fe40964a0a84d86445046f59391": "核弹级漏洞？名为核弹，实为跳蛋，CVE-2025-55182 复现",
+    "https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247522346&idx=1&sn=f8c9a39c2cbeac64b5233c6507d37180": "国家网信办发布《网络数据安全风险评估办法（征求意见稿）》",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175232&idx=2&sn=0f8006618998aac2240ac1049fd8d43f": "国家网信办就《网络数据安全风险评估办法（征求意见稿）》公开征求意见",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MjI0MDAyMg==&mid=2247488867&idx=1&sn=90c24367ccb4e2992d900a98e119eba6": "当 AI 成为安全工程师：Claude Code 自主完成一次挖矿攻击事件响应全记录",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247602658&idx=1&sn=7edb1119c400146064910dd4c0a8db6d": "国家互联网信息办公室关于《网络数据安全风险评估办法（征求意见稿）》公开征求意见的通知",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504573&idx=4&sn=73323461ed7388d6896d946bad6e54e9": "深度剖析 Telegram 加密诈骗生态：伪造支持频道与 Drainer 的工业化运作"
 }
