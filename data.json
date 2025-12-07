@@ -29612,5 +29612,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487032&idx=1&sn=ee1f9872e27db431a4c75da2c810c046": "【漏洞检测POC】React Server Components RCE（CVE-2025-55182）",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485340&idx=1&sn=4591f7f295b4d9eeb6d56d8609a64ef6": "【紧急提醒】React 与 Next.js 爆出安全漏洞，近期项目几乎全中招！",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493116&idx=1&sn=4bf55fd56cf18b960a05a4dd5ed2e593": "【JAVA代审】小智ESP32管理平台代码审计",
-    "https://mp.weixin.qq.com/s?__biz=MzI2Mjk4NjgxMg==&mid=2247483811&idx=1&sn=5cb349f959bd6fb3a1d44c8513fe1e50": "CVE-2025-55182 Next.js Server Actions RCE Vulnerability Analysis"
+    "https://mp.weixin.qq.com/s?__biz=MzI2Mjk4NjgxMg==&mid=2247483811&idx=1&sn=5cb349f959bd6fb3a1d44c8513fe1e50": "CVE-2025-55182 Next.js Server Actions RCE Vulnerability Analysis",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzY5MzI3Mg==&mid=2247484021&idx=1&sn=7b75852cb1c8dc6583b5617dd990417d": "CVE-2025-23358 Windows版 NVIDIA APP 提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MzAzMzk3OA==&mid=2247485236&idx=1&sn=c10d47e29572b6fbd74c5c0a45f8b85d": "密码学CTF题目-密码学",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494644&idx=1&sn=83feccc61f2a9bde72c40481d1ec1907": "相册照片类银狐最新攻击样本分析"
 }
