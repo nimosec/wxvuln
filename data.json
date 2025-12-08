@@ -29615,5 +29615,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2Mjk4NjgxMg==&mid=2247483811&idx=1&sn=5cb349f959bd6fb3a1d44c8513fe1e50": "CVE-2025-55182 Next.js Server Actions RCE Vulnerability Analysis",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MzY5MzI3Mg==&mid=2247484021&idx=1&sn=7b75852cb1c8dc6583b5617dd990417d": "CVE-2025-23358 Windows版 NVIDIA APP 提权漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3MzAzMzk3OA==&mid=2247485236&idx=1&sn=c10d47e29572b6fbd74c5c0a45f8b85d": "密码学CTF题目-密码学",
-    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494644&idx=1&sn=83feccc61f2a9bde72c40481d1ec1907": "相册照片类银狐最新攻击样本分析"
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494644&idx=1&sn=83feccc61f2a9bde72c40481d1ec1907": "相册照片类银狐最新攻击样本分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247491943&idx=1&sn=73efad4e0813238cf9d960e33840d193": "开发现代勒索软件(第一部分:用户态)",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzMxMTMyMA==&mid=2648571533&idx=1&sn=54008e97ea0ea4158e474a73762c51a7": "安信天行入云系统网络安全运营服务解决方案",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650641093&idx=2&sn=f23d1a488eb8d7b9acbcec28fd2a90a2": "AI重新定义安全咨询：安恒信息如何用“智能体”让安全运营“活”起来？",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447980062&idx=1&sn=35d5aa7a2286d554d7bea5cf2c0e780d": "安全运营-DNS告警运营提效优化",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484806&idx=1&sn=cfa145dc750bf73ee921c4e228eb83fa": "Next.js rce注入内存马",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613552&idx=1&sn=b429a1b9c35ffbd3af2924986f8f24ef": "后恶意软件时代来临！2026年网络威胁态势预测",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613552&idx=2&sn=44a5394200c90dbb5980c7d473fad143": "市值蒸发20亿澳元！澳航570万客户数据泄露：特权账号才是安全的“命门”",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247492042&idx=1&sn=1cf77918c10296444510f9db5ad3363c": "小程序渗透测试，只有一个页面？以及关联通杀方案",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487442&idx=1&sn=f8542a6ece7d67bc44d36ed35778e774": "【漏洞脚本】飞企互联FE业务协作平台 attachment 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901676&idx=3&sn=b9319ee66bb490b24d1709692ad604f9": "还在用正则做鉴权？Oracle 这个 0-day 漏洞教做人，Groovy 编译期也能执行代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797091&idx=3&sn=1ae2472bf108cc1efc3f30df801d6dd7": "React2Shell漏洞已被攻击者利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486179&idx=1&sn=7ca4c0ad626867fa26e8bf785789d9df": "lz4-java 高危漏洞 (CVE-2025-66566) 在解压缩过程中泄漏未初始化的内存",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655295157&idx=1&sn=79024539aa1d6ba3043adfcf7a41bec4": "安全攻防 | 200页 红队攻击实践指南",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655295157&idx=2&sn=f7a9eced364f539edd22a0c6dedf3fbe": "等保 | 等级保护之数据安全监督检查流程"
 }
