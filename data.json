@@ -29740,5 +29740,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491102&idx=1&sn=0946bd92339296e19f40c2c6ba6d787c": "【高危漏洞预警】Apache Tika XXE漏洞CVE-2025-66516",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535264&idx=1&sn=fa7e33c8cdeffc23ac8ab634188b63d0": "安全评估将常态化：《网络数据安全风险评估办法（征求意见稿）》公开征求意见（附全文）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485736&idx=1&sn=22b9f7343eff8f0ad3d2b73d79f7a136": "无回显RCE漏洞的常见五种突破技术",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541082&idx=1&sn=49a2974af0c9b355b0c89637c446750f": "AI应用支出报告：安全工具为何消失在榜单之外？"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541082&idx=1&sn=49a2974af0c9b355b0c89637c446750f": "AI应用支出报告：安全工具为何消失在榜单之外？",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489649&idx=1&sn=a83b6d0950f3777e3f8050bcd4af52f5": "React(next.js)存在远程命令执行漏洞CVE-2025-55182CVE-2025-55182 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493015&idx=1&sn=eb784e9dbb0e5d0e4f4c27f190996930": "【红队渗透手册】100个sql注入Payload，（非常全，无任何废话版）",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494677&idx=1&sn=013a77051b2ae1642d5376dd88800736": "Lazarus APT组织攻击样本分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488449&idx=1&sn=6789e94a2e3379291ae51b5a9b818c15": "墨西哥 ｜泰国｜巴西 数据泄露一览",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493925&idx=1&sn=a952c400c3ee63c8401ff57692745dd1": "[蓝队] FastMonitor - 网络流量监控与威胁检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484748&idx=1&sn=dd3ee5b458a51e3ca51e5a9699445484": "用友NC漏洞剖析，从Nday到1day的攻防实践",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064475&idx=1&sn=fb2696f77b4d231e2012f72b43fe9c18": "【已复现】Apache Tika XML外部实体注入漏洞(CVE-2025-66516)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NDMyNDM0NQ==&mid=2247485255&idx=1&sn=ae00d51504cf50ea4fe8e390724b3510": "《网络数据安全风险评估办法（征求意见稿）》原文及专家解读",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493510&idx=1&sn=eef895948cb685d02f08df3d3ea1bb98": "孚盟云 GetIcon.aspx sql注入漏洞"
 }
