@@ -29986,5 +29986,22 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484711&idx=1&sn=8d78dba85149a6957ac5382fea1193d2": "漏洞预警 | vllm 代码执行漏洞（CVE-2025-66448）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495580&idx=1&sn=2f2248b04a36938dd669c289e5b66fc3": "【已复现】Ivanti EPM 未授权存储型跨站脚本漏洞(CVE-2025-10573)",
     "https://mp.weixin.qq.com/s?__biz=MzU5MTIxNzg0Ng==&mid=2247488366&idx=1&sn=cc104417639449c0909de7ec044e6d23": "筑牢数据安全防线：三大核心服务守护个人信息价值",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541108&idx=1&sn=9fcaad4b6a2b216c8b46ccf34a2fa512": "实时威胁情报如何降低网络安全支出"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541108&idx=1&sn=9fcaad4b6a2b216c8b46ccf34a2fa512": "实时威胁情报如何降低网络安全支出",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489680&idx=1&sn=0fcfc52711b7941a500dd62d1bd0fbe3": "畅捷通TPlus Ufida.T.SM.UIP.ashx存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184078&idx=1&sn=12002e69278910b193e4b8f9fbdccf35": "ChatGPT共享链接钓鱼攻击：伪装实用指南诱导手动植马",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491113&idx=1&sn=795666ada27860166422f82caae12ae9": "【高危漏洞预警】vllm代码执行漏洞CVE-2025-66448",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2MDIwNQ==&mid=2247483762&idx=1&sn=2870398a0bf7b554a4e8396dfa6b44ae": "网络安全测试项",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NDg4MTIyNQ==&mid=2247486265&idx=1&sn=e84f996c87961ecdbde2c0485cdb2f45": "数智赋能 智御未来 | 第十五届网络安全漏洞分析与风险评估大会在天津盛大启幕",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494720&idx=1&sn=ee2cd2f87800d2b0dd1efdd2da9577ed": "Lazarus APT组织攻击活动样本分析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485197&idx=1&sn=8b76c1584eff5d2df908e4eec5151122": "【安全工具更新】CVE-2025-55182 批量检测工具，支持一键RCE、内存马注入、反向shell等。",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486635&idx=1&sn=cc25dee8158a87be4a0d404c2740d75f": "某学校系统存在大量sql注入和敏感信息泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521751&idx=1&sn=4298a871498c9b130fe258eb94e66351": "1.6K主机全域沦陷实录：从单点突破到域控接管的终极横向渗透链",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463931&idx=1&sn=a1168593540ed8eebc9e15190fc75659": "数智赋能 智御未来 | 第十五届网络安全漏洞分析与风险评估大会在天津盛大启幕",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NzQ0NTMxMQ==&mid=2247490904&idx=1&sn=2c70d87b0c99ae986ff36dbf43267cf8": "数智赋能 智御未来 | 第十五届网络安全漏洞分析与风险评估大会在天津盛大启幕",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484677&idx=1&sn=540b86e8ad29636bdc914e16df409a19": "SRC·XSS深度挖掘《URL 驱动的 DOM / 反射 XSS 自动化挖掘：从参数提取到路径解析的双维度实践》",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247492048&idx=1&sn=782b56e8dc6580a2f71925e91438a383": "想复刻一些付费安全工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524865&idx=1&sn=6c1aeab5544b2ceb748233050fdcef10": "【漏洞通告】SAP Solution Manager 代码注入漏洞 (CVE-2025-42880)",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664998744&idx=1&sn=de9c8b5ab0bf81520a5ec6ed1d0f881b": "【业界动态】数智赋能xa0智御未来·第十五届网络安全漏洞分析与风险评估大会在天津盛大启幕",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463925&idx=1&sn=820456a81c63ed45a984d39f811be872": "信息安全漏洞周报（2025年第49期）",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525916&idx=1&sn=2e5c07d89a541e24b665d4b2106d87b6": "超低价+返现！CISP12月班报名倒计时！"
 }
