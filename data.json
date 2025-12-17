@@ -30856,5 +30856,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576069&idx=2&sn=c6666caa53d67a0c2db135cdf87df690": "渗透测试基础总结，对初学者太有用了！（果断收藏）",
     "https://mp.weixin.qq.com/s?__biz=MzA3NDM4NTk4NA==&mid=2452947153&idx=1&sn=df5d449a6c4300e33c74a3e3eeffcc6f": "搞那么多漏洞库干什么？",
     "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260595&idx=1&sn=90f0a5c6bf87349c67a2b1e85cafe6d6": "从6000架飞机软件漏洞看航空软件开发生命周期的教训与安全隐患",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3Njg1NTk5MQ==&mid=2247502698&idx=1&sn=ac46fb21cfd146866ee0da3d2260e909": "浅谈模板引擎中的注入问题"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3Njg1NTk5MQ==&mid=2247502698&idx=1&sn=ac46fb21cfd146866ee0da3d2260e909": "浅谈模板引擎中的注入问题",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489725&idx=1&sn=7482eda0392c636e65ecbd04054b1747": "IdeaCMS GetList.html存在SQL注入漏洞CVE-2025-5569 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494634&idx=1&sn=7cc83a90badea88d7d7d25583bd0c419": "学员投稿之edu漏洞的JS逆向解密导致任意密码重置",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491142&idx=1&sn=e264bdd4d719baa434a734de6af2c7d4": "【高危漏洞预警】Redis缓冲区溢出漏洞CVE-2025-62507",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494832&idx=1&sn=9ea0ba6f26f15228c1eafdb3be815b5f": "海莲花APT组织使用跳板服务器进行攻击活动分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTUzMDY1OA==&mid=2247485215&idx=4&sn=30005ef4391a4327198293e9a253ae79": "[代码审计]WebFTP",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484654&idx=1&sn=6cda01489ccdb21cb669bd316dd2905a": "EasyTools渗透测试工具箱V2.0.2更新(新增漏洞扫描功能，优化存在的诸多bug)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504613&idx=2&sn=46036e8b26b78ee1ac26be9b071ad6bd": "防不胜防！PayPal官方邮件被用于钓鱼攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533963&idx=1&sn=a5d7834c19e638d051f722fed36ccaa1": "Windows 桌面窗口管理器（DWM）本地提权漏洞 CVE-2025-55681 详解",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485359&idx=1&sn=b1e0aa2bb6d35fc1bb1f20a344a5334e": "AI PromptBreaker：大模型安全测试与越狱神器",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485511&idx=1&sn=f1ece4a6598fdab1cb8a8b0ebad9bdc3": "存储桶相关漏洞记录",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MTAwNzUzNQ==&mid=2650511892&idx=1&sn=8c5d4fd720306bbe530f93791822b45e": "企业人员安全意识｜实战淬炼：钓鱼演练让安全意识成为本能",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247490102&idx=1&sn=cfbc41c256228ca778f305252bf51211": "生产级 API 加密的构建实用指南（从owasp开始）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzQ5OTQ0Mw==&mid=2247483861&idx=1&sn=3194f10725a8740042885634385bfcc2": "react2shell 漏洞浅析"
 }
