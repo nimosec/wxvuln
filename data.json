@@ -30795,5 +30795,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzIyMjYzNDgzMg==&mid=2247487851&idx=1&sn=8e0ca0e06f247319a366875a70ba6815": "基础设施安全-Web安全",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487787&idx=1&sn=a4ce165fde388f95765f1f37cf217ae9": "安全运维 er 的痛：内网防护做太严被吐槽，做太松怕背锅，你们怎么平衡？",
     "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508816&idx=1&sn=9f3b37c73258ceb151bfaa99b2213d1d": "记一次抽丝剥茧式的渗透测试",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247528791&idx=1&sn=6fc4857f10cbbd79cbfa57c9e27a092e": " ] [二进制安全新风向: AI大语言模型协助未知威胁检测与逆向分析"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247528791&idx=1&sn=6fc4857f10cbbd79cbfa57c9e27a092e": " ] [二进制安全新风向: AI大语言模型协助未知威胁检测与逆向分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493992&idx=1&sn=e9a9814a0feb983f20c336000bc4da7d": "【蓝队】新一代自动化威胁狩猎与应急响应平台",
+    "https://mp.weixin.qq.com/s?__biz=MzE5MTQwOTI3Ng==&mid=2247483702&idx=1&sn=1d52503fc07c69b36805b1ead38620b0": "漏洞验证-Apache Kafka 未授权访问",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484803&idx=1&sn=dce55a20fa33fd531eed535da01e68eb": "【红队工具】红队后渗透CobaltStrike插件更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486933&idx=1&sn=043502af39dc4ecd5a22229d03a62d7e": "Pornhub 继 OpenAI 后曝数据泄露，浏览记录等 2.01 亿条会员信息被窃取",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501909&idx=2&sn=ee11529dd7f3415acd3c675af0f76882": "【漏洞通告】Windows Admin Center 本地权限提升漏洞(CVE-2025-64669)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501909&idx=3&sn=7d661fd4c3a8ce359ca22e8ed3cad20e": "【漏洞通告】pgAdmin 4 远程命令执行漏洞(CVE-2025-13780)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492174&idx=1&sn=fc516082270b1af47770ae69852c07a2": "LLM 驱动的 Windows 补丁漏洞自动化分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484785&idx=1&sn=82c963c67a9089d124addd85890c4c34": "【漏洞挖掘Tips】一种新的 GraphQL 绕过角度",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjUwNDE2OA==&mid=2247500466&idx=2&sn=da6d212fca8bc1ee734dde53d9427ef2": "银狐远控软件去后门方法",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491890&idx=1&sn=c78434c03d6c5d0d775081747fd1e2ce": "泛微E-cology9 SQL 注入漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304663&idx=3&sn=b6332050e914e02505cc829b43045bd5": "山石安服｜具身智能安全测试服务方案",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487131&idx=1&sn=fd09705b86767d82fe0e69a73a76b1a6": "【数据泄露】暗网同一黑客再次公布某东方大国科技部2.5GB 敏感文件",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247497889&idx=1&sn=3bb2eeae9deb0f5943440beee31a8db1": "TimelineSec助力ISRC2025元旦年终冲榜活动，年榜礼品+最高4倍奖励",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDYzODQxNA==&mid=2247484350&idx=1&sn=6d6f2bf868e99711010ce5700e4faf9f": "史上最疯：独家揭秘感染全球180万Android设备的巨型僵尸网络Kimwolf",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjU2NjM4NA==&mid=2247483842&idx=1&sn=9f06bbb79a94ac37e22adea0a027b616": "[已复现]某软报表export/excel SQL注入内存马",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139744&idx=2&sn=c572e4b2f6c3b197f3f2bf0de6d07af6": "工信部：关于防范PolarEdge僵尸网络的风险提示；密码正逐渐退出舞台：Okta 报告显示无密码认证正在普及| 牛览"
 }
