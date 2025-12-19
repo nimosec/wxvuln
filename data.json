@@ -31138,5 +31138,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489323&idx=1&sn=46744eb4bd37a0bcf9ab2ff326008619": "安全工具开发圈子：这里有可参考的源码、可测试的靶场和免费的FOFA搜索",
     "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484376&idx=1&sn=6895a36eab231e1eba0e0a35795c9724": "大模型（LLM）平台漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247497548&idx=1&sn=6a8c2e5fea93f53a101992bf0632820d": "Strix自动渗透测试平台搭建与使用",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247497548&idx=2&sn=76cf2bee1df443f30f16a88de2fa2aa4": "每周安全速递³⁷⁰ | 勒索软件攻击导致心理健康机构超11万人数据泄露"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247497548&idx=2&sn=76cf2bee1df443f30f16a88de2fa2aa4": "每周安全速递³⁷⁰ | 勒索软件攻击导致心理健康机构超11万人数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzk4ODMxODQyMQ==&mid=2247483835&idx=1&sn=22362148fdb8ae6c7b24f012228d1bb4": "什么？瞎逛也能捡到高危漏洞？",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491153&idx=1&sn=41256cbdf79b54780d80dae55103bfc4": "【漏洞预警】Apache Airflow Providers Edge3权限提升漏洞(CVE-2025-67895)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODk4ODc2Ng==&mid=2247484487&idx=1&sn=0a2c0275cfcf79ef6e1b12ba0fb1cd6b": "Termux-X：移动安全与极客的终极武器——在指尖免ROOT运行Kali NetHunter",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODk4ODc2Ng==&mid=2247484487&idx=2&sn=8982d319494aadb21b89d05957c23c7b": "Kali Nethunter 生态智能化升级：AI赋能移动渗透测试新体验",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494869&idx=1&sn=ae278536e08f0ffb2e3924501e7de9c4": "疑似海莲花APT组织白加黑攻击样本分析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTU4NjgzMg==&mid=2651449626&idx=1&sn=085297bcafe46dff449894cb400b5da7": "具身智能安全入侵，证据何寻？美亚柏科前沿揭秘“数字痕迹”取证新突破",
+    "https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247522831&idx=1&sn=b7c887a5486f8537c8382c30ee5d625c": "OWASP发布2026智能体应用十大安全风险！",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483896&idx=1&sn=e85b3d3de4f6ac511c5777725718b9ee": "CVE-2025-55182 React2Shell 深入详解",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493587&idx=1&sn=8d998b1629d8a4bd038e8b3ac220e7b7": "中识云平台 sys_user_list 信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247490569&idx=1&sn=56529a32d5ca65e613b52a891894736b": "第五届“鹏城杯”联邦网络靶场协同攻防演练初赛write up",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247485125&idx=1&sn=16a690766c146855573a996aa70bb8e5": "数据安全与渗透测试：保卫金库与测试门锁",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTMxNzYxNA==&mid=2247491079&idx=1&sn=43b2ca325a050456ad588f0e4dc30c55": "Gogs远程命令注入漏洞(CVE-2025-8110)复现"
 }
