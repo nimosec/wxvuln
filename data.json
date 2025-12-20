@@ -31150,5 +31150,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493587&idx=1&sn=8d998b1629d8a4bd038e8b3ac220e7b7": "中识云平台 sys_user_list 信息泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247490569&idx=1&sn=56529a32d5ca65e613b52a891894736b": "第五届“鹏城杯”联邦网络靶场协同攻防演练初赛write up",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247485125&idx=1&sn=16a690766c146855573a996aa70bb8e5": "数据安全与渗透测试：保卫金库与测试门锁",
-    "https://mp.weixin.qq.com/s?__biz=MzkxOTMxNzYxNA==&mid=2247491079&idx=1&sn=43b2ca325a050456ad588f0e4dc30c55": "Gogs远程命令注入漏洞(CVE-2025-8110)复现"
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTMxNzYxNA==&mid=2247491079&idx=1&sn=43b2ca325a050456ad588f0e4dc30c55": "Gogs远程命令注入漏洞(CVE-2025-8110)复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517465&idx=2&sn=d70695f9351a3b59f603ef8108e38294": "超过25,000台FortiCloud SSO设备暴露于远程攻击之下-Fortinet身份验证绕过漏洞被现实攻击利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495314&idx=1&sn=84f5e4b9841809d2169d7a671a9f2da4": "个人接单 | web渗透测试",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494897&idx=1&sn=5d70506b8c6ae8fab1429afbd176e5b9": "Donot(肚脑虫) APT组织攻击活动分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494561&idx=1&sn=1c1a54f91a766372c6e64e072c4b8d99": "实战|内网中vcenter集群攻击全程实录，学会你也行！",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e": "漏洞复现 | 用友U8 Cloud MARosterPhotoServlet SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991085&idx=1&sn=94166cbccbc745bfe1717b633cd2d0ce": "原创 Paper | React2Shell 漏洞利用分析报告",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138713&idx=1&sn=f6e1238600d58f4c8b8ae7e15b7b34b7": "工信部预警新型僵尸网络、智能体十大安全风险出炉|一周特辑",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492535&idx=1&sn=6cfda7b7b5fe729507660b5f19d46557": "40款开源安全工具",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTEyNzc1Nw==&mid=2247487101&idx=2&sn=d0497c700ec92a0eff9a04adb480096e": "【安全锐评】ISO/IEC 27001并不等同于信息安全合规",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120256&idx=1&sn=ecfaa3ce999f12087ea2eceebb5c11d5": "护网—2025 | 数据安全无免责区，人员少技术弱不是挡箭牌！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494359&idx=1&sn=644f02ba259a44a7dd224590296cb212": "Notepad++修复了攻击者可推送恶意更新文件的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247498801&idx=3&sn=76bd10af0a7f64ecf235e70959f8cbca": "网络安全行业，网络安全服务外包发展趋势浅析"
 }
