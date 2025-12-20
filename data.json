@@ -31182,5 +31182,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5": "帆软export/excelSQL注入漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498821&idx=1&sn=44eb0ffb9c56d4b3cc0e5148ed996597": "SRC中自动化查找目录遍历获取赏金",
     "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650564491&idx=1&sn=d0f83958fa053619b8042a3809aea012": "特定目标画像实战，情报分析师如何挖掘人物与企业背景",
-    "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507752&idx=1&sn=060b4c9dfdc81261c3ae0a97848ced0f": "2026年CISP，NISP考试计划已出，有需要的师傅联系我"
+    "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507752&idx=1&sn=060b4c9dfdc81261c3ae0a97848ced0f": "2026年CISP，NISP考试计划已出，有需要的师傅联系我",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553584&idx=1&sn=71eb816ec2676f9401fa78a94f5211fc": "记录某系统实战内网K8S渗透",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MTYyMDQ0OQ==&mid=2247494190&idx=1&sn=a82ea668b8c2163128970a42353c9871": "聊一聊《数据安全风险评估办法》征求意见稿",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=1&sn=2c480dbb6cebd6b8326f1149655ca66a": "【JAVA安全研究】鉴权绕过 %0a%0d 的 \\\"隐形陷阱\\\" Spring与Shrio中 Matcher的鉴权绕过 CVE-..",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=2&sn=d16a929844c24b43b5f82fd57c6dafaa": "【JAVA安全研究】鉴权绕过 shiro CVE-2010-3863 漏洞研究",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=3&sn=5e6c2d4dca791657021d3208d2c97c6e": "【JAVA安全研究】鉴权绕过 Spring中间件双重编码%25%32%66 绕过 CVE-2020-11989",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=4&sn=45f69090997fd5ec2f11945e97c4b9ac": "【JAVA安全研究】鉴权绕过 Spring中间件双重编码%25%32%66 绕过 CVE-2020-11989",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484171&idx=1&sn=733db8597cdc3a7ed74c6347496282ca": "【安全预警】东胜物流软件 WmsZXFeeGridSource SQL注入"
 }
