@@ -31701,5 +31701,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528949&idx=1&sn=5458123e980343b4521a7c0e6ccb3658": "【已复现】LangChain 序列化注入漏洞(CVE-2025-68664)",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485867&idx=1&sn=2e60a48afaafca387c37ab518126145f": "开源项目的“隐形杀手”，Google重磅神器OSV-Scanner，一键揪出所有漏洞！",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515840&idx=1&sn=152546c497dd1f35bae3282575060be5": "严重的n8n缺陷 (CVE-2025-68613, CVSS 9.9) 可在数千个实例中执行任意代码",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486266&idx=1&sn=a4d5b58a9e397e66f8078e4068ac93de": "SRC高危，你上你也行"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486266&idx=1&sn=a4d5b58a9e397e66f8078e4068ac93de": "SRC高危，你上你也行",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247649802&idx=1&sn=543e31369ff321daba9159fd097f0628": "专访4位CISO：如何化挫败为机遇",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247649802&idx=3&sn=54d4e74377ae5f27b34382f4c8000923": "携程回应数据安全争议：柬埔寨合作未启动，已全部暂停",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247649802&idx=4&sn=407f446a5f5548ffaf6a75e6ecf0196c": "免费赠送 | 青少年安全意识科普素材（第八期）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDY4MTQwOQ==&mid=2247485067&idx=1&sn=409f4bf5b326854c0ea6716a9d016dba": "专家解读｜实施网络数据安全风险评估办法 加强国家网络数据安全能力建设",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041035&idx=1&sn=567898bcd91ceaac66ee3c5d825347b0": "JS逆向 -- 某省过验证码逆向",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508853&idx=1&sn=29af4f6b574b87c09f095a47909a3295": "深入理解 CVE-2025–68613：n8n 工作流自动化工具中的高危远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504952&idx=2&sn=ea6434144f7fcc8d434c302eefa9fa1b": "伪造Windows激活工具域名暗藏恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493648&idx=1&sn=d840cd56608a0afa38fa32f4ce10fc86": "帆软报表 FineReport export/excel SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjUwNDE2OA==&mid=2247500505&idx=2&sn=b4c83f70e20464e661f4e0aa84b5962d": "银狐远控免杀与shellcode修复思路分析 01",
+    "https://mp.weixin.qq.com/s?__biz=MzA3OTMxNTcxNA==&mid=2650981162&idx=2&sn=b0fe44d9edfe6004303b3367a8b80026": "天融信双方案获IDC推荐，为安全智能体加持下的私有云安全建设赋能",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304816&idx=2&sn=267d7366d7f2df6ee2eb421519d2ae53": "山石方案｜某游戏公司主备数据中心高性能安全防护解决方案",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493477&idx=1&sn=f829dc45ba236ff269d77ba7036f4e5c": "守护数字世界，CISSP安心保障为您护航",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486964&idx=1&sn=733133fad565b6318c21d24a56cf8eb9": "甲骨文 EBS 漏洞导致 350 万人信息泄露"
 }
