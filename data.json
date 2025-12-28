@@ -31994,5 +31994,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484146&idx=1&sn=1713dedf505fe7338604ba6c3562544c": "华为 Auth-Http Server 1.0 存在任意文件读取漏洞 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120383&idx=1&sn=d1a1a695595d6a88d11e1aef0474876c": "数据安全评估资质单位最新一览表",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503458&idx=1&sn=7f7b9dbe959305056d4bf64d94aef812": "关于现代恶意软件，2025年教会了我们哪些知识？",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494496&idx=1&sn=df25ba611844761827cd1809a0209830": "贝克大学称：该校在2024年发生的数据泄露事件中将影响53000人。"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494496&idx=1&sn=df25ba611844761827cd1809a0209830": "贝克大学称：该校在2024年发生的数据泄露事件中将影响53000人。",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MDA3MzI0MA==&mid=2650091678&idx=1&sn=5819818511d4ea3a65a78ba0ecd08785": "PornHub数据泄露 这回是真“裸奔”",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485873&idx=1&sn=6d62e55b985ee896dfafd9d25a56109f": "【吃瓜】面向渗透测试工程师的虚假招聘",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247494081&idx=1&sn=f770ccfb7660a7cde23f15fe3552644b": "[代码审计]金和OA存在多个SQL注入0day",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247485175&idx=1&sn=50cf89660acab24427ee6b0630db4b0c": "记一次AES+RSA混合加密orderby注入失败的经历",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534155&idx=1&sn=eb7d9cb660ea70a6352254d2dde0e8cc": "CVE-2025-54322 (ZERODAY) - 未经身份验证的根远程代码执行漏洞，影响超过 70,000 台主机",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534155&idx=2&sn=a36b699f047b7ffa02c6f23ee2145e71": "CVE-2025-62215：Windows 内核中由于竞争条件和双重释放导致的 LPE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485374&idx=1&sn=24723fe4bf636a236bc26d007e9d9027": "漏洞复现|KEDACOM Phoenix监控平台存在upload_fcgi接口任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486125&idx=2&sn=3293aab3ee37c0a875e24f727f8d5c24": "关于面向红队的, 高性能高度自由可拓展的自动化扫描引擎 |一个高度可控且可扩展的红队自动扫描引擎",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499417&idx=1&sn=93d7d5ae30082c1724a0a5b892760175": "行业资讯：安恒信息242.7万中标某高校网络安全运维服务项目",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492612&idx=1&sn=7685cb0decf59f1daf89c67939ce5d2b": "将 List-Unsubscribe 头变成 SSRF/XSS 攻击载体",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTc1MjY5OQ==&mid=2247486373&idx=1&sn=54b7ace7615f7333333410df805166ef": "HTTP请求走私漏洞原理",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488724&idx=1&sn=d03d87b06790540a3fe40ff224b3f496": "台湾多个组织涉嫌数据泄露 | 总大小约为3.46 GB 全量下载",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797600&idx=1&sn=7f40d5080f99453f6f4cbb8424a07a95": "“缓存欺骗第五章第四节”路径解析不一致怎么会导致漏洞产生？上实操！手把手教你成功运用并实施",
+    "https://mp.weixin.qq.com/s?__biz=Mzk4ODI4MDEzNQ==&mid=2247484076&idx=1&sn=0fd4c9e1aff75fec371e0fb8822d82dc": "OWASP发布2026版AI智能体应用十大安全风险"
 }
