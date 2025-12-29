@@ -32169,5 +32169,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzYzOTAwMjY5NQ==&mid=2247484231&idx=1&sn=9297fbab577c05a4c5b9c366f19c3b87": "网安实验干货每日分享SQL注入-基于布尔的盲注-1229",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501951&idx=2&sn=98131fa6722cbd2cec627cfd126b62e1": "【漏洞通告】MongoDB zlib 压缩内存泄露漏洞(CVE-2025-14847)",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524926&idx=1&sn=228995f6ca3b9742e101526240c5cc5b": "【漏洞通告】MongoDB 未授权内存泄露漏洞(CVE-2025-14847)",
-    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260609&idx=1&sn=06b90387c8c8f4d32b8ef8f3e7fdb6b0": "MongoDB中存在的高危漏洞可能导致内存泄漏"
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260609&idx=1&sn=06b90387c8c8f4d32b8ef8f3e7fdb6b0": "MongoDB中存在的高危漏洞可能导致内存泄漏",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjU2MjY4Mw==&mid=2247485385&idx=1&sn=748cf2f1c6a2f7a47c4f5ad63c1847b4": "简简单单的IDOR导致大量信息泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491400&idx=1&sn=3c08a7567535cd8e4b1549ae5595318b": "漏洞预警 | MongoDB 存在未授权内存泄露漏洞（CVE-2025-14847）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491400&idx=2&sn=03e85f850285da96228510c5159b8c45": "应急响应及溯源常用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491400&idx=3&sn=eb3ca3b5a1ebc65bb5e0118d28e80a74": "网安实验干货每日分享SQL注入-基于布尔的盲注-1229",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491400&idx=4&sn=d93527c966234133bcce32fc0690dac3": "【攻防演练】内网大保健-快速刷分流程",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491400&idx=5&sn=ddc391b7b81fb7b34be2b203773b2a38": "安全开发-会话劫持之会话ID加密存储",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447980111&idx=1&sn=aa3079e845e9d851ced7c574bfeadebe": "安全开发-会话劫持之会话ID加密存储",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485897&idx=1&sn=3ba4555654cc9f788719b0a72cc6fe51": "【吃瓜】爆料称MongoDB漏洞致育碧数十TB源代码泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247522249&idx=2&sn=7e99a69cb45eb494d3ba2b7e900e7a56": "src专项挖掘知识库",
+    "https://mp.weixin.qq.com/s?__biz=MzU3OTAyODk4MQ==&mid=2247491481&idx=1&sn=c68f056c336088c97942a4a36fafa75a": "『跨年SRC联合狩猎翻倍盛典』第二期启幕xa0！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA2NzY3NA==&mid=2448691682&idx=2&sn=9e3849cdc06c58aee3ec71d14ad7ae70": "2025河南省第七届“金盾信安杯”网络与数据安全大赛成功举办"
 }
