@@ -32755,5 +32755,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMDA5OTc0Mg==&mid=2247484195&idx=1&sn=ce9c6aba5dabbc95059a83ab516c58d0": "【已复现】n8n代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzYzOTE5Mjk0NQ==&mid=2247483941&idx=1&sn=1bd7ed203885335789bdc0953933bad6": "EDUSRC挖掘之如何挖到第一个漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247547646&idx=2&sn=33d32b82f86d260f54a69790853f315c": "【已复现】Zimbra 本地文件包含漏洞(CVE-2025-68645）",
-    "https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247485103&idx=1&sn=3ac903cac3e31e47ccfdaa2439082201": "信息窃取者使攻击者能够劫持合法的商业基础设施进行恶意软件托管"
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247485103&idx=1&sn=3ac903cac3e31e47ccfdaa2439082201": "信息窃取者使攻击者能够劫持合法的商业基础设施进行恶意软件托管",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDc5MDY2OA==&mid=2247483774&idx=1&sn=c8785c9db9470f541a84aab15e8394fd": "2025年Vite的一系列漏洞解读",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489830&idx=1&sn=3ace9c5e3dd3ac3c15c35c057d369cc6": "微力同步Verysync存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491218&idx=1&sn=8f08cabab7024e9d6552a724ed9c6a6e": "【高危漏洞预警】n8n Python沙箱绕过漏洞CVE-2025-68668",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497966&idx=1&sn=6ad06679fe9b9effa72b3225e3dd82d2": "CTF竞赛系统、知识竞赛系统、漏洞靶场练习系统",
+    "https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247484004&idx=1&sn=6219ed551411a065352fef52c83f501d": "速速来战 | “常态化漏洞挖掘演习活动”今日开始，活动期间仍可报名",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNjk2MDU4MQ==&mid=2247487784&idx=1&sn=17193a2cba582dc8e2cfb9643903e9bd": "今日分享|GBT 42888-2023 信息安全技术 机器学习算法安全评估规范"
 }
