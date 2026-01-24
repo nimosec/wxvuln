@@ -35360,5 +35360,13 @@
     "https://mp.weixin.qq.com/s/nbPsxTqg3jG3G8fqqglLbg": "注意：Github上这个CVE-2025-8088工具实为木马下载器",
     "https://mp.weixin.qq.com/s/4PMH2yw8JaxTnM0_-YC13w": "CISA更新KEV目录，新增四个正在被积极利用的软件漏洞",
     "https://mp.weixin.qq.com/s/m26ce6CYk87l-xBxr4MJ3w": "MindsDB 文件路径处理漏洞预警：未授权信息泄露与拒绝服务风险",
-    "https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA": "从工单到Shell:利用PHP过滤器和CNEXT攻击osTicket(CVE-2026-22200)"
+    "https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA": "从工单到Shell:利用PHP过滤器和CNEXT攻击osTicket(CVE-2026-22200)",
+    "https://mp.weixin.qq.com/s/MsFF3zyR9DExdeQz66EqFQ": "SQL注入挖洞已死？月入过万的SRC猎手正在用这些“过时”技巧疯狂淘金",
+    "https://mp.weixin.qq.com/s/A-wQSZ_AwoGeZlLF_h7fDg": "拆解 AI Skills 的五大逻辑漏洞与防御实践",
+    "https://mp.weixin.qq.com/s/MgZlMx1WOB1ePpYCxNOd7Q": "喜报 | ChaMd5团队荣获JSRC2025年度“优秀合作伙伴”和成员Str1am_年度No.5",
+    "https://mp.weixin.qq.com/s/fCToUaR-iSciYZ6uu8D3VQ": "CVE-2026-24061：GNU InetUtils Telnetd 身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/7SinEMKajtsgs7biytJ_1Q": "Linux Telnetd 远程代码执行！靶场镜像",
+    "https://mp.weixin.qq.com/s/qvIFti3o7lKnvQLsOOmifA": "网络首发 | 北京航空航天大学关振宇教授团队：大语言模型驱动的网络协议逆向与安全测试方法",
+    "https://mp.weixin.qq.com/s/Xb6jv464MLKodGi0ogAxlQ": "针对APT研究人员的定向钓鱼攻击活动",
+    "https://mp.weixin.qq.com/s/_6qk59l9H9jpI37VhgJKwQ": "【安全锐评】企业遭受勒索病毒攻击并非是其资源投入不够"
 }
