@@ -35933,5 +35933,21 @@
     "https://mp.weixin.qq.com/s/JMG7EKojGxuERfZce_Perg": "网安圈的PUA话术，比0day漏洞还伤人",
     "https://mp.weixin.qq.com/s/rkET2SWPVDvFBcqpEHI9QA": "谁在领跑AI安全赛道？CISO眼中的十大服务商",
     "https://mp.weixin.qq.com/s/sdXnUkBO-wOJ7laXVc56Dg": "免费赠送 | 青少年安全意识科普素材（第十三期）",
-    "https://mp.weixin.qq.com/s/efU2-wd1ZHFH48t3MHp8Gg": "【接口漏洞第八章第九节】一招绕过GraphQL内省防御：实战利用详解"
+    "https://mp.weixin.qq.com/s/efU2-wd1ZHFH48t3MHp8Gg": "【接口漏洞第八章第九节】一招绕过GraphQL内省防御：实战利用详解",
+    "https://mp.weixin.qq.com/s/5M5WuRwHItWH-loWaitpvQ": "漏洞预警 | GNU InetUtils telnetd远程身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/Wtr3Y-6hrMJT460-Trbb5Q": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/_HTl4hpNlPQ7I17sQTpxMw": "漏洞预警 | 金和OA XXE漏洞",
+    "https://mp.weixin.qq.com/s/MDcYjCVicGmxn40MRAz08w": "搞定那个加密的公众号：一次有点折腾的密钥固定实战",
+    "https://mp.weixin.qq.com/s/PIZ9vC4Q7g4u3H8XyGIANg": "九思OA软件jsoa/wap.do存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/Ya9TXWM2Lgl3nzc7vCTNEg": "【内网渗透】票据传递基础-1",
+    "https://mp.weixin.qq.com/s/fRvF0SH6BtJVj5YnTIlqrg": "一种PHP PDO 预处理语句中的新型 SQL 注入技术",
+    "https://mp.weixin.qq.com/s/9ReeaEdtnwoWDU4xi4HooQ": "基于 LLM 多 Agent 的全流程漏洞挖掘系统，已挖数十个真实漏洞",
+    "https://mp.weixin.qq.com/s/nmdHS4gNY0mHJeiDPgSCmw": "全层级流量威胁监测方案：聚焦越权访问，筑牢云原生网络边界",
+    "https://mp.weixin.qq.com/s/_TEUKJ3O2Y0ur4Ow7Utacw": "一个基于LLM的多Agent全流程漏洞挖掘项目",
+    "https://mp.weixin.qq.com/s/XSYpS45NC2iumVz5JQtfIQ": "网络安全洞察2026：社会工程学",
+    "https://mp.weixin.qq.com/s/V9jSkAQrAfmjprRmMNV3MQ": "全景安全实战：如何挖掘内网潜伏跳板，打赢勒索攻击防御战？",
+    "https://mp.weixin.qq.com/s/Bz_pQpEUUsfVLOBpD9ADgQ": "Burp未授权漏洞自动检测插件 -- Unauthorized_Scan（1月27日更新）",
+    "https://mp.weixin.qq.com/s/k2QSNDtAPsU8MqWW2fAVVA": "GitLab警告：存在高危双因素认证绕过和拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s/Nwnwt8v2OGEBAjOo1GXQkQ": "太阳风 SolarWinds警告称Web帮助台存在严重的远程代码执行和身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/UVafRftV4HpxcPsr_vGnrg": "FBI查封勒索软件团伙使用的RAMP网络犯罪论坛"
 }
