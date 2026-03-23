@@ -40971,5 +40971,16 @@
     "https://mp.weixin.qq.com/s/PppisO4FOMGayss99h3hWQ": "【高危漏洞预警】SiYuan（思源笔记）桌面发布服务存在任意文件读取漏洞",
     "https://mp.weixin.qq.com/s/8gc2Cn-F8LjMNh1xtgqu7g": "红队实战指南，AI融合攻防实战的时代来了",
     "https://mp.weixin.qq.com/s/prXa8S7vaDAjsQblfmLgsA": "【漏洞通告】Langflow 未授权远程代码执行漏洞(CVE-2026-33017)",
-    "https://mp.weixin.qq.com/s/uA8IUm-FzuQ4H6zJ7x9qiQ": "间谍活动闯入现实：当基础设施成为情报收集通道"
+    "https://mp.weixin.qq.com/s/uA8IUm-FzuQ4H6zJ7x9qiQ": "间谍活动闯入现实：当基础设施成为情报收集通道",
+    "https://mp.weixin.qq.com/s/PQj9RAmvvJL9No5vVwGz8Q": "Upload Labs 第11关：双写后缀绕过文件上传限制",
+    "https://mp.weixin.qq.com/s/L5gGW_L4y2gPeiZeLWmPtw": "首个武器化HDMI-CEC协议的安卓电视盒僵尸网络",
+    "https://mp.weixin.qq.com/s/ZrhR6oG0IBLpkupsaV9KxA": "一次基于Struts框架项目的代码审计",
+    "https://mp.weixin.qq.com/s/NQP8AB4ZMI2wlC1hxiDU1w": "【案例分享】某社交平台并发签到漏洞：白帽子如何用一个接口刷21天签到？",
+    "https://mp.weixin.qq.com/s/3hSbSo_cIkVpFrkq50QOlQ": "大模型安全深度学习指南：数据隐私泄露专题(1)",
+    "https://mp.weixin.qq.com/s/lLz0t7eCsCvzq2dA3KsE1g": "【培训】开源情报分析师实战能力培训班-4月成都开班",
+    "https://mp.weixin.qq.com/s/qY75RbrA81mPAib1B7tKfg": "【高危漏洞预警】PyTorch反序列化漏洞 (CVE-2026-4538)",
+    "https://mp.weixin.qq.com/s/-IJ-Z2s-pVbkQJHzNSM26w": "泛微E-cology10存在远程代码执行漏洞(QVD-2026-14149) 附POC",
+    "https://mp.weixin.qq.com/s/jHLVsy2cxeoLV663DC8sCQ": "JNDI注入-ldap篇",
+    "https://mp.weixin.qq.com/s/UbqF3P1e2wNuVpbkEYHt6w": "26个网络设备维护案例（含Cisco路由器、交换机故障排查、网络安全防御等）",
+    "https://mp.weixin.qq.com/s/Edy27vkih6P8vqtok5YD5w": "【0day】深科特 LEAN MES系统 /Handler/SMTLoadingMaterial.ashx SQL注入漏洞"
 }
