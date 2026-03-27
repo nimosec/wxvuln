@@ -41350,5 +41350,20 @@
     "https://mp.weixin.qq.com/s/ft8s_vuxIVocovRvyjIEOw": "CVE-2010-1870",
     "https://mp.weixin.qq.com/s/grbSEdJCS7-a8VU60Jq5Gw": "【深度研判】摩萨德波斯语平台化招募核情报模式外溢风险评估",
     "https://mp.weixin.qq.com/s/oJnKz91e1sHvQhkWDH5LxA": "CVE-2026-20079 - Cisco FMC 身份验证绕过远程代码执行分析",
-    "https://mp.weixin.qq.com/s/py1hnY9cfJw3_smzaJ2uXw": "CVE-2026-20817 - Windows错误报告中缺失授权检查的分析 POC"
+    "https://mp.weixin.qq.com/s/py1hnY9cfJw3_smzaJ2uXw": "CVE-2026-20817 - Windows错误报告中缺失授权检查的分析 POC",
+    "https://mp.weixin.qq.com/s/Z0Szj4BBrPIeAHVh0ZucRw": "OpenAI重金悬赏AI滥用漏洞，50%复现即算有效",
+    "https://mp.weixin.qq.com/s/4y79248cKezOl8w9_EmksQ": "新型“PXA”窃密木马来袭：专盯银行与加密货币，邮件是主要传播途径",
+    "https://mp.weixin.qq.com/s/x316x2uD8v0ql8Vn2yvjug": "AI被人下蛊了！这6个漏洞比你想的恐怖100倍",
+    "https://mp.weixin.qq.com/s/5p0UlsNstxL3-UMYlu09Bg": "【公益译文】2026年国际AI安全报告（二）",
+    "https://mp.weixin.qq.com/s/jJrwgDN6rC3q2beEG-LhpQ": "OpenAI 发布AI安全漏洞奖励计划",
+    "https://mp.weixin.qq.com/s/WaIPXsW3f201ppHlgvsaSA": "20小时即被武器化！Langflow致命漏洞CVE-2026-33017",
+    "https://mp.weixin.qq.com/s/-0uP6LXLx9VmSbrHpqpOtg": "美国情报界制定AI应用框架，强化敏感信息防护与情报分析效能",
+    "https://mp.weixin.qq.com/s/dUTEykB-mXqpcxn1UMOqDw": "单文件过360核晶&amp;Defender，深度解密 PE Fluctuation 内存波动加密技术",
+    "https://mp.weixin.qq.com/s/jnk0D6FlxLlVohP2gQ9oDw": "信息安全漏洞预警（2026年3月23日-3月27日）",
+    "https://mp.weixin.qq.com/s/ESMm3b6D5ji3U3ABhFxHbQ": "【免费领】全网收录最全：Web漏洞检测及修复方案手册",
+    "https://mp.weixin.qq.com/s/fhPtLqJLKbzQMhtR-K9yYg": "龙王 claw 自动化审计 0day 挑战直播来袭！",
+    "https://mp.weixin.qq.com/s/q4nj9ElLEDX04L7WusMAlg": "数据流通利用场景下的数据安全治理研究",
+    "https://mp.weixin.qq.com/s/uG4nimHPWVscO2cDNeNmuA": "等保标准扩展丨数据安全系列公安行标解析（二）",
+    "https://mp.weixin.qq.com/s/xHWPOUxSr9frZ4rmE5__gQ": "【火绒安全周报】Token有中文名了/马自达披露数据泄露事件",
+    "https://mp.weixin.qq.com/s/ZgJXp7wzO1ssB9PeEmtsPQ": "PHP反序列化之字符逃逸"
 }
