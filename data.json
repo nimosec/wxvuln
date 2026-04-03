@@ -41813,5 +41813,18 @@
     "https://mp.weixin.qq.com/s/r1RdR60LkwR5-i6sFGk1nQ": "【漏洞通告】Google Chrome Dawn 释放后重用漏洞（CVE-2026-5281）",
     "https://mp.weixin.qq.com/s/9Gjv3yXl3_xybhkZsnZmpA": "【红队必备】：渗透综合性安全检测工具无影",
     "https://mp.weixin.qq.com/s/RXN1jmNqE2f87HG56MGM_Q": "HackingTool——渗透测试工具箱集成185+ 款安全工具",
-    "https://mp.weixin.qq.com/s/dMfhyFnwnLbJSbsFxJvGkQ": "SRC 实战技巧指南"
+    "https://mp.weixin.qq.com/s/dMfhyFnwnLbJSbsFxJvGkQ": "SRC 实战技巧指南",
+    "https://mp.weixin.qq.com/s/NHwvmyrUxU5lR4DXzd8TyA": "思科修复了高危及严重级别的漏洞",
+    "https://mp.weixin.qq.com/s/euSe-r028KJR0kjhzB1E6Q": "恶意组织 UAC‑0255 冒充乌克兰国家计算机应急响应小组 CERT‑UA，通过网络钓鱼传播 AGEWHEEZE 恶意软件",
+    "https://mp.weixin.qq.com/s/B5dvDy7ol5xr6S6QcIE_Og": "【工具分享】弱口令爆破及字典生成工具整理，可免费下载！",
+    "https://mp.weixin.qq.com/s/Furkh9Wd1EKnj3ZedLE_JQ": "UAC绕过技术——权限提升的艺术",
+    "https://mp.weixin.qq.com/s/2MxI5DdygT6iVtXNuVx0yQ": "智能网联汽车车载CAN网络入侵检测方法综述",
+    "https://mp.weixin.qq.com/s/nyHuCdTcIQooss8xeMp7Nw": "基于证据深度学习的CAN网络入侵检测框架",
+    "https://mp.weixin.qq.com/s/o4n9S1c59H0XMwh-1cDItg": "2026年4月2日 数据泄露日报",
+    "https://mp.weixin.qq.com/s/VBslJx7PZWnhL7q1qr8nYg": "【登录背后的秘密-第五章第一节】SRC高价值漏洞思路：从2FA绕过到账户接管，仅需一次URL替换",
+    "https://mp.weixin.qq.com/s/HQvLtRtrbS6wfdz9Y9O1wA": "麒麟勒索软件几乎摧毁所有EDR解决方案",
+    "https://mp.weixin.qq.com/s/Mavc54TxzNiKZFFRCNhm2A": "数据安全等级测评，一种全新玩法",
+    "https://mp.weixin.qq.com/s/8F1C__iMIqun-IwfSiYBSw": "黑客的蜜罐：针对近期 CVE-2026-21962 及其他关键 WebLogic 漏洞在高度交互式 Oracle 蜜罐上的攻击研究",
+    "https://mp.weixin.qq.com/s/_6dqlZej1TzScISyKSnabQ": "新型webshell免杀 | 哥斯拉 Websocket型 webshell",
+    "https://mp.weixin.qq.com/s/t9UVILS8kEJoCsY0tvez5w": "黑客在电信网络中植入隐蔽的 BPFdoor 后门，以实现长期访问"
 }
