@@ -42699,5 +42699,13 @@
     "https://mp.weixin.qq.com/s/8c7UtgaRyWzEEmbEG4A3AA": "[漏洞复现]某华ICC智能物联综合管理平台存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s/8tTy8b2cbOnjEXVDDAfMpw": "Axios爆SSRF漏洞，特定条件下可导致RCE",
     "https://mp.weixin.qq.com/s/okqH_AOcJ3sJtvOnvkwYBw": "“Jenny是我的朋友”——用MCP打造我的AI漏洞猎人",
-    "https://mp.weixin.qq.com/s/mrwt9U00dOURANSRlQ916w": "纵横论坛 | “内网漫游指南”主题讲座"
+    "https://mp.weixin.qq.com/s/mrwt9U00dOURANSRlQ916w": "纵横论坛 | “内网漫游指南”主题讲座",
+    "https://mp.weixin.qq.com/s/kQKi6ESw4_GMq7OcF6eZxg": "黑客编写恶意代码，操控2000余个账户疯狂套现APP积分",
+    "https://mp.weixin.qq.com/s/usrLku0LKmxfO7nOgKKbYw": "【视频】CVE-2025-2563： WordPress 提权",
+    "https://mp.weixin.qq.com/s/Ngu9c1tNIfkCig65sWPLtg": "Claude Mythos预览版，具备强大0Day漏洞发现与利用能力",
+    "https://mp.weixin.qq.com/s/dhMqc_8Cj_2MXFCByeLW3g": "CISA考试包套餐，性价比直接拉满！",
+    "https://mp.weixin.qq.com/s/eUJ2yhtLxhbQnXSxFU9iJA": "CTF 选手必藏：ZipCracker 更新了，一次打通 ZIP 伪加密、字典爆破、CRC 碰撞与已知明文攻击",
+    "https://mp.weixin.qq.com/s/zsnLoIP31MUWu3WH_olA-g": "【SRC实战】通过报错拿下高危漏洞",
+    "https://mp.weixin.qq.com/s/s78ZiqEKWkNvC__BdEJjGw": "Windows事件日志服务曝内核地址泄露漏洞，影响NVMe存储设备",
+    "https://mp.weixin.qq.com/s/0in0EwZm_iJg5Rg7HK4Jng": "明源地产ERP GetErpDept.ashx接口存在SQL注入漏洞 附POC"
 }
