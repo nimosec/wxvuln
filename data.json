@@ -43082,5 +43082,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075807&idx=2&sn=fbb1043d986644c3e4bb0d107b0ecaea": " ] [【安全圈】Windows截图工具漏洞可导致攻击者通过网络实施欺骗攻击",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075807&idx=3&sn=1cbc47d7ccaa3c6d94793aacac6e9e98": " ] [【安全圈】白宫拟向联邦机构开放Anthropic的Claude Mythos漏洞挖掘AI访问权限",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501460&idx=1&sn=c623842eaa5b1f99d55aea98f40e1d9a": " ] [2026年人工智能大模型安全众测活动公告",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486500&idx=1&sn=45c83464788632d7eefd68a7076c488d": " ] [灵活性与安全大使如何保障 AI 赋能型企业安全"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486500&idx=1&sn=45c83464788632d7eefd68a7076c488d": " ] [灵活性与安全大使如何保障 AI 赋能型企业安全",
+    "https://mp.weixin.qq.com/s/5tBoZ45oh9bL6zRA0IEICA": "CVE-2026-34621｜Adobe Acrobat Reader远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s/oBwME2PZXIZZaPgBzEOcCA": "CVE-2026-34486｜Apache Tomcat远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s/In-3LLIKeE-cFE_cG5PU9w": "隐藏虚拟机：黑客如何利用 QEMU 隐秘窃取数据并传播恶意软件",
+    "https://mp.weixin.qq.com/s/UGwRkXMImp7f81s2W0p8KA": "微软 Defender 遭攻击：三个零日漏洞被利用，其中两个暂未修补，可实现权限提升",
+    "https://mp.weixin.qq.com/s/MtB1jUWDEzwTOTBtZ28hoA": "Nexcorium 版 Mirai 恶意软件利用 TBK DVR 漏洞发起 DDoS 攻击",
+    "https://mp.weixin.qq.com/s/BgjUIi0vcNH_Ur3kz-gPhA": "从开源投毒到AI生成代码：供应链安全为何成为企业安全的主战场？",
+    "https://mp.weixin.qq.com/s/XxO6ek8jUTYa0DCfAY2dKw": "CISSP 重点知识点合集｜D2 安全风险管理（单元一）2.1 风险和风险管理",
+    "https://mp.weixin.qq.com/s/OtWFNKU84o8igyPlfU5oiw": "全球暗网威胁情报周报（2026年4月13日–4月19日）",
+    "https://mp.weixin.qq.com/s/nGnS6OLS_dzmmS4yxjkHRA": "漏洞预警 | Axios输入验证不当漏洞",
+    "https://mp.weixin.qq.com/s/2pQYjf9_juh1BMNY7f_PpQ": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/SaJ-HzrTxXcWqUnFGxyfVw": "[安全周报] 当NIST都承认追不上了——2026年漏洞管理体系的结构性崩塌已经开始",
+    "https://mp.weixin.qq.com/s/EkJqYNUSev2Gyn2SZgVILA": "服务器被DDoS打挂了？别怕！Linux防火墙详细加固指南",
+    "https://mp.weixin.qq.com/s/5gvGhdHlbY69UbGnR_aJaQ": "微软 SharePoint 的一个严重漏洞已被攻击者利用"
 }
