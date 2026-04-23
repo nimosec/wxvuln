@@ -43389,5 +43389,20 @@
     "https://mp.weixin.qq.com/s/04gLX4WeFHFvqw8FCKDgPw": "某JAVA系统RCE漏洞审计流程",
     "https://mp.weixin.qq.com/s/h_pGDZntBoBxxrSSjw1kVA": "渗透测试 | 近期高危逻辑漏洞挖掘实战合集 (越权漏洞 / 支付漏洞 / 账号接管)",
     "https://mp.weixin.qq.com/s/UxZ6EPZVGK5sUzvNFQzU0g": "挖了半年SRC颗粒无收",
-    "https://mp.weixin.qq.com/s/YeGO_cYSj00cVmnji5sHrg": "间接提示注入克星！CLAWGUARD 安全框架解析"
+    "https://mp.weixin.qq.com/s/YeGO_cYSj00cVmnji5sHrg": "间接提示注入克星！CLAWGUARD 安全框架解析",
+    "https://mp.weixin.qq.com/s/W-aVO1Cx1xAv2C3S3n0Pcw": "记某单位众测项目漏洞案例复盘",
+    "https://mp.weixin.qq.com/s/autnabZybjElezhRKIN94A": "ChatGPT 安全漏洞：仅需一条提示词即可窃取数据",
+    "https://mp.weixin.qq.com/s/ZI2CAgCrSfVFyTKxpiiZOg": "疑似朝鲜APT组织Lazarus Group | 加密货币KelpDAO 遭遇 2.9 亿美元巨额盗窃案",
+    "https://mp.weixin.qq.com/s/4FJ2KAG7PFHai_NEy-nzlQ": "Windows 截图工具NTLM哈希泄露漏洞PoC利用代码公开",
+    "https://mp.weixin.qq.com/s/JYWFBctZB7s2oPY7SCiB6w": "一款网空威胁情报（Threat Intelligence）平台",
+    "https://mp.weixin.qq.com/s/DY_7nyxeW87JQIzK8GC5FQ": "如何让AI成为代码审计的超级外挂？降维打击？【闪石星曜@Java代码审计高阶课程】新增AI代审实战玩法~",
+    "https://mp.weixin.qq.com/s/JpF1ClfTDeupNKid7FxA9g": "本周暗网动态：全球多国重点敏感数据泄露事件及数据价值分析",
+    "https://mp.weixin.qq.com/s/AdHURLeZkumpDv3_Z5uYfQ": "赏金猎人包里常备：SSRF黑名单绕过三板斧",
+    "https://mp.weixin.qq.com/s/pw2MP5cFU8TqzhSFFnKMDg": "漏洞预警 | OpenPrinting CUPS远程代码执行和认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/A9z6ntDveOrcJaeBZpitcA": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/NH-odYaB5hMRoTO2uf7trg": "从红队攻击到蓝队防御——Redis 5.0.1 主从复制RCE应急响应实录",
+    "https://mp.weixin.qq.com/s/SqvF4UCtILCrq9oTkOBgmA": "文件上传GetShell必备工具",
+    "https://mp.weixin.qq.com/s/m7bFpNZoG9YECnypPCcqlQ": "伊朗间谍活动与 CastleRAT 和 ChainShell 恶意软件套件有关",
+    "https://mp.weixin.qq.com/s/pn_dEUMvLOtS_uVk_BbmgA": "企业内部SSL卸载后的「明文传输」vs「加密传输」优劣对比分析",
+    "https://mp.weixin.qq.com/s/mNTu4yWJ6v7TjBnLb2Kgaw": "从西亚斯到德令哈某幼儿园个人信息泄露，探讨《2026年个人信息保护系列专项行动》"
 }
