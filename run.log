@@ -55939,3 +55939,35 @@
 2026-04-26 16:27:10,174 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-04-26 16:27:10,239 - INFO - 已更新data.json，添加了 0 个URL
 2026-04-26 16:27:10,239 - INFO - === 执行完成 ===
+2026-04-26 20:24:25,038 - INFO - === 开始执行微信文章归档工具 ===
+2026-04-26 20:24:25,039 - INFO - 数据文件: data.json
+2026-04-26 20:24:25,040 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-04-26 20:24:25,040 - INFO - 文档目录: doc
+2026-04-26 20:24:25,108 - INFO - 已加载 43666 条历史记录
+2026-04-26 20:24:25,109 - INFO - === 开始今日拉取 ===
+2026-04-26 20:24:25,109 - INFO - 开始获取Doonsec RSS
+2026-04-26 20:24:25,109 - INFO - 目标日期: 2026-04-26
+2026-04-26 20:24:27,139 - INFO - Doonsec RSS请求成功
+2026-04-26 20:24:27,140 - INFO - RSS中共有 200 个条目
+2026-04-26 20:24:27,140 - INFO - Doonsec获取到 50 个2026-04-26的微信文章URL
+2026-04-26 20:24:27,141 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-04-26.md
+2026-04-26 20:24:27,297 - INFO - ChainReactors md文件下载状态码: 404
+2026-04-26 20:24:27,297 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-04-26.md 状态码: 404
+2026-04-26 20:24:27,297 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-04-26.md
+2026-04-26 20:24:27,503 - INFO - BruceFeIix md文件下载状态码: 200
+2026-04-26 20:24:27,504 - INFO - BruceFeIix获取到 166 个URL
+2026-04-26 20:24:27,504 - INFO - === 开始处理 2026-04-26 的数据 ===
+2026-04-26 20:24:27,504 - INFO - Doonsec原始数据: 50 个
+2026-04-26 20:24:27,504 - INFO - ChainReactors原始数据: 0 个
+2026-04-26 20:24:27,504 - INFO - BruceFeIix原始数据: 166 个
+2026-04-26 20:24:27,504 - INFO - 开始处理Doonsec数据...
+2026-04-26 20:24:27,504 - INFO - 开始处理ChainReactors数据...
+2026-04-26 20:24:27,504 - INFO - 开始处理BruceFeIix数据...
+2026-04-26 20:24:27,504 - INFO - 去重后共 168 个URL待处理，跳过 48 个重复URL
+2026-04-26 20:24:27,505 - INFO - 去重后统计 - Doonsec: 43 个, ChainReactors: 0 个, BruceFeIix: 125 个
+2026-04-26 20:24:27,505 - INFO - === 开始关键词过滤 ===
+2026-04-26 20:24:27,511 - INFO - 关键词过滤: 匹配 0 个，跳过 168 个
+2026-04-26 20:24:27,511 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-04-26 20:24:27,511 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-04-26 20:24:27,578 - INFO - 已更新data.json，添加了 0 个URL
+2026-04-26 20:24:27,578 - INFO - === 执行完成 ===
