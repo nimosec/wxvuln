@@ -43664,5 +43664,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=1&sn=421380f14f3ee130f56c4f1cbcca9e6c": " ] [【安全圈】美国家庭安防巨头 ADT 被黑客勒索，大量客户数据泄露",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=2&sn=9ef45ec99e970a6bf4e6c4b5d170a1c6": " ] [【安全圈】存在12年之久的Pack2TheRoot漏洞允许Linux用户获取root权限",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=3&sn=3889d86cde91acd668a715177a3327c2": " ] [【安全圈】黑客利用 Telegram 机器人追踪 900 余次成功的 React2Shell 漏洞利用",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486530&idx=1&sn=dc97328ed604326e543d6bd99bcedb0f": " ] [将人工智能安全运营落地 -- 企业面临的下一大挑战"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486530&idx=1&sn=dc97328ed604326e543d6bd99bcedb0f": " ] [将人工智能安全运营落地 -- 企业面临的下一大挑战",
+    "https://mp.weixin.qq.com/s/7U7OxEqwoY0ij9-NiRYhSw": "美国 CISA 披露，联邦网络内思科 ASA 设备遭植入持久化 FIRESTARTER 后门",
+    "https://mp.weixin.qq.com/s/6ZHb7JPOdw1KaN78148Q6A": "黑客利用 Breeze Cache 插件漏洞（CVE-2026-3844）发起攻击，超 40 万个网站面临安全风险",
+    "https://mp.weixin.qq.com/s/L8xeBZnj39Qty6ntKUwBBg": "CrowdStrike LogScale 存在高危漏洞，可被攻击者利用非法读取服务器文件",
+    "https://mp.weixin.qq.com/s/Q_X_Xv0ffX_HJjgAZsPfkg": "NVD“撑不住”了：以后NVD的漏洞该咋运营",
+    "https://mp.weixin.qq.com/s/oaaVH1DJUCEbdkdxzDw1Yg": "DeepZero：开源的驱动程序漏洞自动化研究引擎，如何改变攻防格局？",
+    "https://mp.weixin.qq.com/s/KBOm1W35utMcRCsvvAGQqA": "拉开渗透差距：从被忽略的细节入手，WebSocket 漏洞测试实操",
+    "https://mp.weixin.qq.com/s/CxqgbHhwaKU3z-Pne0rXsg": "MITRE ATT&amp;CK 实战：如何通过对手模拟，让红队更像“真黑客”、蓝队不再被动挨打",
+    "https://mp.weixin.qq.com/s/EoCapcNgAXM4P2YWcX5ozQ": "大模型安全开发者指南：构建安全的AI应用",
+    "https://mp.weixin.qq.com/s/FBeu3Gh8c3vHRfVYNAPfIg": "挖到盲SSRF别急着放弃！这才是RCE的正确打开方式",
+    "https://mp.weixin.qq.com/s/cJ2Y9tEC3zUKrAoOtYs_Yg": "漏洞预警 | Windows截图工具信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/pYX7ym5MGbopdjjBbZk2JQ": "漏洞预警 | 天地伟业Easy7 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/_GAJCT6IfVuSxfH-Z3XS8A": "【SRC实战】万能验证码",
+    "https://mp.weixin.qq.com/s/7efZPSf_Qc0TTUnKUZhEFw": "CPUID 被黑客入侵，可通过 CPU-Z 和 HWMonitor 下载传播恶意软件",
+    "https://mp.weixin.qq.com/s/RROS6hn4UWQL9MX154Q5Vw": "记一次弱口令 + 文件上传组合拳、复盘从弱口令一步步 Getshell 全过程"
 }
