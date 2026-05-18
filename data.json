@@ -45430,5 +45430,20 @@
     "https://mp.weixin.qq.com/s/KSaJfV_qU6iokXy4v8-jLg": "CVE-2015-1328 Overlayfs内核本地提权复现",
     "https://mp.weixin.qq.com/s/5NlCon9G6u3Y-S7QuRiInA": "自动化渗透测试利器NucleiFuzzer",
     "https://mp.weixin.qq.com/s/p2xHul1iM_Kf6agWGGp_hQ": "红队免杀技巧分享：无需加载任何网络 C2 植入体实现",
-    "https://mp.weixin.qq.com/s/macyDjRwIky_n-_XRF-QGg": "安全产品开始“去界面化”：云安全巨头Sysdig发布了一款没有界面的云安全产品"
+    "https://mp.weixin.qq.com/s/macyDjRwIky_n-_XRF-QGg": "安全产品开始“去界面化”：云安全巨头Sysdig发布了一款没有界面的云安全产品",
+    "https://mp.weixin.qq.com/s/Due2p2pMVBkTk5aO9cIt1A": "SQL注入的方法0x002",
+    "https://mp.weixin.qq.com/s/YTL31y_1azZK7fuTV4W5nw": "2026年度（第一期）CNNVD漏洞奖励评选结果",
+    "https://mp.weixin.qq.com/s/DJ8OR2rRfSzpJ8_8lTr_yQ": "2026年国家信息安全漏洞库核心技术支撑单位公告",
+    "https://mp.weixin.qq.com/s/9dvmcyvoiXWqMhHiQyTAmw": "Wiz发布AI威胁准备框架！企业安全进入新周期，运营速度成生死线",
+    "https://mp.weixin.qq.com/s/5mJt3XyxKpWGhTje2Irvow": "漏洞复现 | 东胜物流软件 CrmProxyMailListGridSource.aspx 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/4OzjjWf3M6KSIh6zsgWldw": "网络安全工程师不懂网络？",
+    "https://mp.weixin.qq.com/s/tk2Bz1VBEsflw-I9-lrT2g": "Win 内核 LPE 漏洞 PoC 公开，从 Chrome 沙箱也能提权",
+    "https://mp.weixin.qq.com/s/_3PrY9SKC1hJ_CfO6Yj-ig": "恶意软件里的\\\"黑色幽默\\\"：Shai-Hulud蠕虫藏着以色列/伊朗专属俄罗斯轮盘",
+    "https://mp.weixin.qq.com/s/lswrUUyJSS10SznRTasCGg": "一款只能文件上传漏洞检测工具|支持多种文件上传绕过技术",
+    "https://mp.weixin.qq.com/s/2P83Vt9dgCQC8AKCykYjTA": "深度解析：GitHub 智能自主工作流安全架构",
+    "https://mp.weixin.qq.com/s/61MQBdgJ1wd7P1cl1Z9Tkg": "从被动应对到主动掌控：核心数据泄露，企业如何稳住局面",
+    "https://mp.weixin.qq.com/s/GbeoWHPS_mGJtaAiyvbCew": "让智能体自己写SKILL，是否可以应用在企业级安全运营领域",
+    "https://mp.weixin.qq.com/s/aJRfMZiWcUiepeqUY5KxPw": "不受限的资源调用漏洞实战",
+    "https://mp.weixin.qq.com/s/r5E0FBNQ4iUmza7322byOg": "价值1988元的反勒索软件开发免费送！！！",
+    "https://mp.weixin.qq.com/s/zfKNvJWRTCgGFWkuEZoLig": "AI 挖洞新思路、深度解析两大间接提示词注入漏洞攻防思路，注入也能获得上万美金"
 }
