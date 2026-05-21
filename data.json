@@ -45686,5 +45686,15 @@
     "https://mp.weixin.qq.com/s/xrX1vL9Tp3l1fxd1CoO_RQ": "关注丨通过备案的网络产品安全漏洞收集平台（第1批）",
     "https://mp.weixin.qq.com/s/yFVNnq-XYQUnX5imZWdiwQ": "【漏洞通告】Next.js 服务器端请求伪造漏洞(CVE-2026-44578)",
     "https://mp.weixin.qq.com/s/-6lxWZNaolzOMwBZrfmyaA": "【漏洞通告】n8n多个节点远程代码执行漏洞(CVE-2026-44789/CVE-2026-44790/CVE-2026-44791)",
-    "https://mp.weixin.qq.com/s/7MAAQ-I97Donlo72j85t9g": "【漏洞通告】Microsoft Exchange Server OWA跨站脚本漏洞(CVE-2026-42897)"
+    "https://mp.weixin.qq.com/s/7MAAQ-I97Donlo72j85t9g": "【漏洞通告】Microsoft Exchange Server OWA跨站脚本漏洞(CVE-2026-42897)",
+    "https://mp.weixin.qq.com/s/vhKH47upsTizsDoi0EKacA": "Burp 加密流量一把梭！JaySenScan 插件：加解密 + 高危漏扫 + 工具联动，渗透测试效率翻倍",
+    "https://mp.weixin.qq.com/s/rSFhf-j9vEcZrUuMPqPfuQ": "平均每个漏洞约1万美元：DARPA 又发奖金",
+    "https://mp.weixin.qq.com/s/8xlCzSJIuZipUfZkLM2tRg": "vm2 沙箱库惊曝\\\"12连杀\\\"：三个满分漏洞掀起腥风血雨",
+    "https://mp.weixin.qq.com/s/sXPmCqJJmACyKPDtQYjl3w": "The Gentlemen 勒索软件组织泄露事件分析：RaaS 模式下的攻防博弈",
+    "https://mp.weixin.qq.com/s/W70QP-2aV0rSh9dO_qrj8Q": "挖洞实战：顺着“改地址”摸到服务端原型污染，这漏洞藏得太深了",
+    "https://mp.weixin.qq.com/s/gHVcLJr86WK9DKSxVtlvYA": "这一次，报CISSP真的太划算！｜低价+红包+加价换购，错过再等一年",
+    "https://mp.weixin.qq.com/s/KryT-jlK2JMp7_EWnb5zWQ": "《密码学》科普讲坛—第九讲：分组密码",
+    "https://mp.weixin.qq.com/s/cICXxuM1R1hOptDEzHEGaw": "美国CISA现“灯下黑”：承包商的公开仓库泄露GovCloud密钥与内网口令，国会限期问罪",
+    "https://mp.weixin.qq.com/s/Sg3_7xXpcat9sjwx8UYmTg": "北京经信局:《关于做好工业领域网络和数据安全工作的提示》",
+    "https://mp.weixin.qq.com/s/r-3Mf7R3nKxg-PqXAfmnDg": "又双叒叕  CVE-2026-46333 Linux 内核潜伏6年漏洞：低权限用户一键窃取 SSH 密钥与 Shadow 密码"
 }
