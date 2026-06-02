@@ -46045,5 +46045,22 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525862&idx=1&sn=920a12a67e69e462696d3314cb9a660e": " ] [【漏洞通告】Apache PyFory 反序列化策略绕过漏洞(CVE-2026-48207)",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525862&idx=2&sn=e75184eb190a0a8ca4c8038630721fae": " ] [【漏洞通告】Linux Kernel CIFSwitch 权限提升漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077061&idx=3&sn=62cba404b32bbbd05f8dd7a957c24ad4": " ] [【安全圈】嘉年华数据泄露，600 万人信息遭曝光",
-    "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487484&idx=1&sn=01090035330ca237eecff2c419389f9b": " ] [【AI复盘】TanStack -> OpenAI供应链攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487484&idx=1&sn=01090035330ca237eecff2c419389f9b": " ] [【AI复盘】TanStack -> OpenAI供应链攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506083&idx=1&sn=576c2a782ab030f6030666f787637cd9": " ] [【在野利用】Windows Netlogon 零点击远程代码执行漏洞(CVE-2026-41089)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526149&idx=1&sn=64865321252297906000fede942608f5": " ] [PAN-OS GlobalProtect 认证绕过漏洞已遭活跃利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526149&idx=2&sn=58f20be37a8c71d4f0e7d16aa1e8f1b5": " ] [Comet Backup 服务器严重漏洞可导致客户数据被远程泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=2&sn=d3c366be59991023edf3faa2bbc3cdb3": " ] [【安全圈】紧急！紧急！2026年首个“核弹级”漏洞爆发！你的网站正在裸奔，请立即更新！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=3&sn=b1b1ff705f0f63b7c7f89b2c99d64d2b": " ] [【安全圈】警告！Palo Alto VPN重大漏洞正在被疯狂利用！你的企业内网可能已经“裸奔”！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616009&idx=3&sn=d0791374d6acd99a1da324b455dfe0c4": " ] [Liquidjs 曝 RCE 漏洞，730万月下载用户面临系统接管风险",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141498&idx=1&sn=43c8719d9fc5222511106b7325b35ff3": " ] [从幻觉到真实入侵：Scenario框架用 Crescendo 策略，重构 AI 代理红队测试",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495120&idx=1&sn=53efb76e80b78d025caf1585e245094a": " ] [AI安全事件 | Grok与Gemini双双幻觉误判米纳布公墓照片",
+    "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511926&idx=1&sn=7790963ce68f0347bff9f164db8e12bb": " ] [共建Agent生态安全：威胁情报Skill安全守护计划矩阵发布",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543049&idx=1&sn=a4ad2b999c7cb54207b94e8ae73bee83": " ] [数世咨询：《中国数据安全50强（2026）》发布",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543049&idx=2&sn=916f573671cda045fecc022d8ece4dcf": " ] [筑牢数据安全防线，共推行业生态发展——数据安全工作会在长沙顺利召开",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851383&idx=1&sn=83abfab29410e8633e6fe6ee678537d5": " ] [青藤云安全携手长三角生态伙伴共建可信AI智算体系",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494927&idx=1&sn=9ee052e88ee7de1c974d3bb86502460b": " ] [OSRC助力 | 第一届NCC白帽大会报名开启",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488268&idx=1&sn=a175fcf0c3dc3d7a416dcbb7e2e3af45": " ] [从nginx堆溢出RCE到root提权漏洞分析与复现",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499512&idx=1&sn=ada86350ac2b254d543ad99cfcc50b5a": " ] [xss实战绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=1&sn=7690d642293464e9f42ce580882a52f3": " ] [CNVD漏洞周报2026年第21期",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=2&sn=ee3fe17716d285c547ebea8276b35a91": " ] [上周关注度较高的产品安全漏洞(20260525-20260531)"
 }
