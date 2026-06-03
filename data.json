@@ -46062,5 +46062,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488268&idx=1&sn=a175fcf0c3dc3d7a416dcbb7e2e3af45": " ] [从nginx堆溢出RCE到root提权漏洞分析与复现",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499512&idx=1&sn=ada86350ac2b254d543ad99cfcc50b5a": " ] [xss实战绕过",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=1&sn=7690d642293464e9f42ce580882a52f3": " ] [CNVD漏洞周报2026年第21期",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=2&sn=ee3fe17716d285c547ebea8276b35a91": " ] [上周关注度较高的产品安全漏洞(20260525-20260531)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=2&sn=ee3fe17716d285c547ebea8276b35a91": " ] [上周关注度较高的产品安全漏洞(20260525-20260531)",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503828&idx=1&sn=8be0b40b97edbea59f07e9072cb07558": " ] [雷神众测漏洞周报2026.5.25-2026.5.31",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500587&idx=1&sn=26ed4c0dbec2499c41c0445332080a9c": " ] [AI 时代，一个安全工程师的自述",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263180&idx=1&sn=462c579296ee76347df937fa7a3dd32b": " ] [CNNVD | 人工智能重要漏洞通报（2026年第八期）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077139&idx=3&sn=01d71c08c3fd23e5f70cd4528f7c6426": " ] [【安全圈】紧急！Red Hat 30+npm包被植Miasma病毒：密钥窃取危机来袭，开发者需立即行动",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616087&idx=3&sn=e8d7c2542fab2fdac01b2048e02e07e9": " ] [Red Hat npm包遭供应链投毒！超30个组件暗藏凭证窃取后门，开发者速查",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141509&idx=2&sn=73fc2aa6fdcc3d272b65636c0f805fc7": " ] [安全厂商共识：AI可接管告警处置，人类仍是SOC决策核心；CNVD 第 21 期漏洞周报：高危漏洞占比高，0day 漏洞成主要威胁| 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543065&idx=1&sn=725f1c1993b0326a1525036e50e59fdd": " ] [58%的CISO表示愿意支付勒索赎金，与执法部门建议背道而驰",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507646&idx=1&sn=322132c9f2b9fcf10079c4231166753f": " ] [网络首发 | 北京交通大学刘吉强教授团队：面向可信数据空间的密钥管理技术研究综述",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499516&idx=1&sn=0d9d1d53df4a1181d1fdaaf6f65f57d8": " ] [【SRC实战】一次XSS三次绕过的真实记录",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501721&idx=1&sn=4ede339288579eccad79666e8f729b1b": " ] [CNVD漏洞周报2026年第21期"
 }
