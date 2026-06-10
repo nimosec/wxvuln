@@ -46138,5 +46138,21 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525873&idx=1&sn=68c4717d3f89c67bcc8a51edeee798c6": " ] [【漏洞通告】Apache Solr 硬编码凭据漏洞(CVE-2026-44825)",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=1&sn=1223fec580286cca1053f468d07327da": " ] [CNVD漏洞周报2026年第22期",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=2&sn=828ccb1c060def926082f4d32dbd9937": " ] [上周关注度较高的产品安全漏洞(20260601-20260607)",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499536&idx=1&sn=5ab02f25c1a3436f298e2350f2d70044": " ] [绕过waf的一个xss"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499536&idx=1&sn=5ab02f25c1a3436f298e2350f2d70044": " ] [绕过waf的一个xss",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519053&idx=1&sn=7ff9f3cb3a7f056e23b11ec73b99c628": " ] [Qilin勒索软件利用Check Point VPN 0day漏洞（CVE-2026-50751）武器化攻击：跨厂商VPN已成突破口",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503835&idx=1&sn=25ee46b4e8794894bdecda4830fc2865": " ] [雷神众测漏洞周报2026.6.02-2024.6.07",
+    "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487578&idx=1&sn=0bade105cbef9238dc73108a076b85e2": " ] [【AI复盘】AI Agent发现FFmpeg 21个0day",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506174&idx=1&sn=651a9f3d7f013ffce2a192909c3c6cc6": " ] [【在野利用】Google Chrome V8 越界读写漏洞(CVE-2026-11645)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526245&idx=1&sn=942ddc523d8dc55a98e7c1dd469ec6c9": " ] [一个字符引起的 Linux Kernel 漏洞可导致本地 root 访问",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526245&idx=2&sn=68e8292c0af96d6449b41e76e900ebba": " ] [谷歌紧急修复今年以来的第5个 Chrome 0day 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=2&sn=4bb85f6cd2431ba75617f1d8cbfcf05d": " ] [【安全圈】Google 修复 2026 年第 5 个已遭利用的 Chrome 零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=3&sn=b9fba0c86b86feffe304adea43d44404": " ] [【安全圈】Gogs 修复导致远程代码执行的严重零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497729&idx=1&sn=fc16ade24a0b3a04dab1b977331f0497": " ] [5月必修漏洞清单：Dirty Frag、ChromaToast等8大高危，务必速查",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525890&idx=1&sn=d975402cc61c1dc6621effdc2840e123": " ] [【漏洞通告】Google Chrome V8 越界读写漏洞(CVE-2026-11645)",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501738&idx=1&sn=987bb1e15f4c1586d4d6554df8f3b9ee": " ] [CNVD漏洞周报2026年第22期",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616400&idx=1&sn=11eb9317495fc02fe2d1a4d60fb692db": " ] [从POC到EXP：从0基础到v8 CVE-2021-38003复现",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616400&idx=3&sn=b4e838270729d81162080e1f5192743e": " ] [单字符Linux内核漏洞：普通用户直取宿主root，攻击代码已疯传",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507716&idx=1&sn=1649faeca53f74aa2278b06ba8dc18dd": " ] [网络首发 | 广州大学田志宏教授团队：APT攻击归因研究范式的批判审视与融合框架",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141626&idx=2&sn=8c505737c8dea93ad82659148949ee99": " ] [国家网信办、市场监管总局联合印发《网络测评活动规范》；OpenAI 推出 Lockdown Mode，强化 ChatGPT 提示注入攻击防护| 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499559&idx=1&sn=7fd4a89208ff6273295d9b24d9d25833": " ] [[文末抽奖]猎手小屋+海外SRC实战预备营正式上线！"
 }
