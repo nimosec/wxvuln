@@ -47119,5 +47119,20 @@
     "https://mp.weixin.qq.com/s/NmqWMF5ALKzk9UJ0kq0D-A": "【已支持检测】预认证即可利用！Kemp LoadMaster 堆内存缺陷导致命令注入远程代码执行漏洞（CVE-2026-8037）",
     "https://mp.weixin.qq.com/s/nRrNEIBwbsRMasqYAvEO0Q": "金融营销新规落地｜任子行数据安全分类分级，数安三件套一站式完成营销全链路合规体检",
     "https://mp.weixin.qq.com/s/imXnwlFSvrtjVON2zuWXIA": "免费代发招聘60期：上海 安全运营工程师 11k-13k",
-    "https://mp.weixin.qq.com/s/9YbLciU3MBURETqAd5Uc3Q": "提权验证一键搞定：全面集成的内核漏洞测试工具 RootHawkX"
+    "https://mp.weixin.qq.com/s/9YbLciU3MBURETqAd5Uc3Q": "提权验证一键搞定：全面集成的内核漏洞测试工具 RootHawkX",
+    "https://mp.weixin.qq.com/s/BZ6RcT-QcQxB1pCMsD1hNA": "Infinite Campus 数据泄露事件影响了 137,000 个学校员工账户",
+    "https://mp.weixin.qq.com/s/3Jn1y65JhrygfAu5nOGqgw": "【高危漏洞预警】CVE-2026-52813｜Gogs路径遍历+Git钩子组合RCE",
+    "https://mp.weixin.qq.com/s/lzI98GqfRXjXh2_XDtiViw": "Evoke Systems 充电站管理系统存在四个严重漏洞，劫持活动会话干扰充电运营",
+    "https://mp.weixin.qq.com/s/HpSbxmxh3Az9tDhb9V5a6w": "日产：在职离职员工数据遭泄露与 Oracle 0day 攻击有关",
+    "https://mp.weixin.qq.com/s/uDFDIuZMxjf_nyo0qGkzTA": "BSSRC｜2026年5月排名奖励公布",
+    "https://mp.weixin.qq.com/s/LUbinjXR0NLTUxkU8Tg_vw": "AI赋能挖掘&amp;&amp;某小程序任意用户登录漏洞",
+    "https://mp.weixin.qq.com/s/hcTSvW0vuonojPZFinuL0g": "挖了半年SRC颗粒无收",
+    "https://mp.weixin.qq.com/s/99PnVM8rbrgENcGsZt-RQA": "国企内推 - 高级红队研究员 Base成都",
+    "https://mp.weixin.qq.com/s/bT-jN4uTjianx_qNsywhtw": "传Claude Code内置隐藏后门，专门检测中国用户",
+    "https://mp.weixin.qq.com/s/mahA44c1FxyUKdkXtoamAg": "ClawHub Skills暴露AI Agents远程控制后门与数据窃取风险",
+    "https://mp.weixin.qq.com/s/0vOznWRPVjaexfMxm0jP4A": "黑客滥用WM_COPYDATA回调路径，通过Win32k隐蔽执行恶意代码",
+    "https://mp.weixin.qq.com/s/Pg3K6_-GO45Nw1Dk1qXRvA": "AirDrop 和快速分享的漏洞使附近的攻击者能够触发崩溃并绕过检查",
+    "https://mp.weixin.qq.com/s/oTc4AvyPidJ_OWYopLEzDQ": "【CVE-2026-22078】关于O+互联未对IPC通道进行身份校验导致本地提权漏洞的致谢公告",
+    "https://mp.weixin.qq.com/s/rsp2Iyk7e63iyZP9dqVGIg": "Oracle E-Business Suite 漏洞 CVE-2026-46817 已被积极利用",
+    "https://mp.weixin.qq.com/s/HpkT_rS83TVLNvAm1yZyHQ": "苹果修复了iOS、macOS和Safari的30多个漏洞，其中包括人工智能发现的WebKit漏洞"
 }
