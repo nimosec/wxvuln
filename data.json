@@ -48297,5 +48297,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530009&idx=1&sn=101c81bd3b9b13aa9cff78872e481180": " ] [使用Memfit复现最新的Fastjson远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501894&idx=1&sn=03478f7d71c61599ba07c61c9bda51f0": " ] [CNVD漏洞周报2026年第28期",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497827&idx=1&sn=3ec8c27389f00958493443b3d15cdfa4": " ] [腾讯云安全已支持防护最新Fastjson远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492688&idx=1&sn=9a2d77050851934abb5d9cd375b6c2be": " ] [【漏洞通告】Fastjson 1.2.x无需gadget远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492688&idx=1&sn=9a2d77050851934abb5d9cd375b6c2be": " ] [【漏洞通告】Fastjson 1.2.x无需gadget远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/XJVHhJtU27GCPFLTIQCeWA": "【漏洞通告】NGINX map 指令正则匹配漏洞(CVE-2026-42533)",
+    "https://mp.weixin.qq.com/s/FGICc-myx0z_p1nLUpQN9g": "OpenAI 自曝：AI 在测试中“黑”了 Hugging Face，还用了零日漏洞",
+    "https://mp.weixin.qq.com/s/v4JCIJNzFb25Nk3JOE8Psg": "危险速查！！！Fastjson 远程代码执行漏洞，这些版本全部受影响！",
+    "https://mp.weixin.qq.com/s/LMbgRdFqa4CxKR3xveDXtA": "Zimbra 修复严重的 SNMP 命令注入和 XSS漏洞",
+    "https://mp.weixin.qq.com/s/-6XB3qf6GO94PPooKw1tpQ": "SQL注入漏洞详解，不信你还听不懂",
+    "https://mp.weixin.qq.com/s/R4W2qej00iNPeIPGNm-FxQ": "某企业履行数据安全保护义务不到位 被行政处罚！"
 }
