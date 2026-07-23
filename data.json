@@ -48311,5 +48311,9 @@
     "https://mp.weixin.qq.com/s/jFglwXUuGUwIxu-Olt7gRQ": "漏洞复现 | 雨诺调度客户端 UserList 存在未授权访问敏感信息泄露漏洞",
     "https://mp.weixin.qq.com/s/tDTxjxNGrtLpIxAdWpLmEw": "OpenAI安全测试中失控：批量0day入侵Hugging Face生产环境",
     "https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw": "【漏洞复现】用友A++V8系列产品selectMaUser接口SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/kRDrdVtCuPkcKUFwnr0kVA": "实战砺兵｜助力昌平区开展xa02026xa0年度网络安全事件应急演练"
+    "https://mp.weixin.qq.com/s/kRDrdVtCuPkcKUFwnr0kVA": "实战砺兵｜助力昌平区开展xa02026xa0年度网络安全事件应急演练",
+    "https://mp.weixin.qq.com/s/nBpHsKhDc7r4m__WqGZ8Gg": "权威报告 | 安恒信息获中国GenAI赋能的托管安全服务市场份额第一",
+    "https://mp.weixin.qq.com/s/jRr9Ydz-9SOsYeyEXV-Z2w": "漏洞复现 | KodExplorer 存在弱口令漏洞",
+    "https://mp.weixin.qq.com/s/Td5558oH8-x7yMXesBTl-Q": "漏洞挖掘信息收集技巧",
+    "https://mp.weixin.qq.com/s/kvSvM8r9TuuVGdiYNi1W8Q": "面向 AI 代码审计的本地客观源码读取覆盖率工具，同时支持 Codex、Claude Code 和 OpenCode"
 }
