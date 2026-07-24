@@ -48344,5 +48344,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488337&idx=1&sn=621a9719182247265a2067568c761593": " ] [漏洞预警丨Redis stream 消费组 NACK 双重释放远程代码执行漏洞（CVE-2026-25243 补丁绕过）",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783046&idx=1&sn=a18ff849165bb78a263bdc32c4f55309": " ] [让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488586&idx=1&sn=675b01d5829a736484c6b8ff6628782d": " ] [AI如何重构企业安全？深圳沙龙议题分享剧透",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499654&idx=1&sn=47f06fc5ea2131c9c0b085ca8a458d97": " ] [突发!某src关闭???"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499654&idx=1&sn=47f06fc5ea2131c9c0b085ca8a458d97": " ] [突发!某src关闭???",
+    "https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w": "Redis身份认证后远程代码执行漏洞通告【已复现】"
 }
