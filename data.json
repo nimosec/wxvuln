@@ -53009,5 +53009,8 @@
     "https://mp.weixin.qq.com/s/4jgwqsxDV_naCyRNqWCTHA": "不传播、不解密，专打数据库与 OA：国家计算机病毒处理中心通报 Weaxor 勒索病毒",
     "https://mp.weixin.qq.com/s/IA64XwY4SA-KnCPzDDiVTQ": "电脑里多出隐藏的Edge窗口，内网随后多了一条反向SSH",
     "https://mp.weixin.qq.com/s/sCPJcDq5VFfvX3vOIxbkWA": "【漏洞复现】CVE-2026-109618 / 109619（php2shell） 复现与边界分析：触发面很宽，武器面很窄",
-    "https://mp.weixin.qq.com/s/ejdRb1TZ7db0WPv2slCyfg": "赛博安全狗：CVE-2026-97785：AAD App Proxy身份验证不当漏洞，严重程度10.0 (10.23)"
+    "https://mp.weixin.qq.com/s/ejdRb1TZ7db0WPv2slCyfg": "赛博安全狗：CVE-2026-97785：AAD App Proxy身份验证不当漏洞，严重程度10.0 (10.23)",
+    "https://mp.weixin.qq.com/s/WXXzCKXOfekha7Gel422YQ": "【风险提示】天融信关于Node.js Brotli解码器远程代码执行漏洞(CVE-2026-111497)的风险提示",
+    "https://mp.weixin.qq.com/s/hY5jhtxkFaIDteGSQW6ntw": "PHP2Shell：一个漏洞，让全球近七成网站紧张了三天",
+    "https://mp.weixin.qq.com/s/L9w-GUMF7w3b5EJF8UKO1w": "每个企业都应该有一套AI自动化渗透测试系统"
 }
