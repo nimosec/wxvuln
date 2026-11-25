@@ -55379,5 +55379,22 @@
     "https://mp.weixin.qq.com/s/i6OJXQWsps5ZQadWR3CfZA": "你扫的是源代码，攻击者读的是你正在发布的那个字节——JS硬编码密钥的2026年真相",
     "https://mp.weixin.qq.com/s/cj8-eW4Z9m_fLJqxGMlHJA": "Fastjson 漏洞",
     "https://mp.weixin.qq.com/s/kDYYAjXWBqk4m44bSgC6Mg": "Broadcom发布VMware安全更新 VMSA-2026-0011: 一次性修复23个漏洞，4个Critical漏洞需紧急处理",
-    "https://mp.weixin.qq.com/s/5HuEQj3nB4dkduj0uP3u3w": "【附exp】geoserver 未授权RCE！五个cve组合拳！"
+    "https://mp.weixin.qq.com/s/5HuEQj3nB4dkduj0uP3u3w": "【附exp】geoserver 未授权RCE！五个cve组合拳！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509104&idx=1&sn=4640736488dc2811dcad0757e475a21c": " ] [原创漏洞 | VMware vCenter Server 未授权管理员用户创建漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624469&idx=2&sn=b7a0d3b9967279314e6416742e39397f": " ] [蓝牙漏洞可远程操控拖车刹车！Elecbrakes控制器曝出3个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208868&idx=1&sn=a784a77357bcfeea2e0e2b80ff5665f5": " ] [漏洞膨胀的真相：4 万条告警为什么只留下 250 条",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527816&idx=2&sn=c384a37aad4ccd136309edfc3da08093": " ] [CISA：这个思科 RCE 漏洞已遭活跃利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527816&idx=1&sn=fc71ab4b2e1407d56091d3c0684c89c4": " ] [大众汽车蓝牙漏洞可暴露对话、泄露GPS位置及控制车内功能",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544640&idx=1&sn=c3e47ec8ef17462892245e0d1c432ab4": " ] [报告发布 | AI原生SOC 能力白皮书",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268722&idx=1&sn=918e09f381d12a544da6cd42ffc9d71c": " ] [中国信息安全测评中心授权澳门科技大学成为澳门首家CISP培训机构",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268713&idx=3&sn=8f3cfcc8d548a04ac23935a5abe268eb": " ] [CNCERT | 关于远控类僵尸网络家族Cling新变种大范围传播的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188737&idx=1&sn=543b8a5eb798a21fb09d1a1276a9e490": " ] [攻防演练里让AI防守，怎么搞的",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496214&idx=1&sn=3e7d9e8d30bda4ee4fa07cf76cbcd34a": " ] [丹麦技术大学 | 欺骗感知型 AI 渗透测试智能体的蜜罐利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516939&idx=2&sn=d7d62ea9809e883a2cd0c687b29eb17b": " ] [CNCERT：关于远控类僵尸网络家族Cling新变种大范围传播的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516939&idx=1&sn=e78d7c3852b618e5dc76d7ebcdf60abf": " ] [某国产路由器被远程植入恶意软件，官方建议尽快排查",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508259&idx=1&sn=33a6c21c2746e38d682fa7972dea6c4d": " ] [【已复现】GeoServer未认证远程代码执行漏洞（CVE 链）安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508234&idx=1&sn=7f9534cb79b4aa41a20b65b20ee6d3f3": " ] [【已复现】Windows Remote Access API 本地权限提升漏洞(CVE-2026-119853)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486711&idx=1&sn=e87cab942ea667acff7d8f29590dc759": " ] [关于近期安全测试违规事件通报及测试红线重申",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497544&idx=2&sn=cd8a3646334adf8761ecf531eea1b61c": " ] [上周关注度较高的产品安全漏洞(20261116-20261122)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497544&idx=1&sn=7123ccaaf1095a7659a21f63dbc0013d": " ] [CNVD漏洞周报2026年第46期"
 }
